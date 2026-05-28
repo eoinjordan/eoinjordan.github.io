@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T10:32:54.983562+00:00",
-  "period_label": "Career",
-  "period_start": null,
-  "period_end": "2026-05-28T10:32:54.931916+00:00",
+  "generated_at": "2026-05-28T10:34:01.396746+00:00",
+  "period_label": "Last 12 months",
+  "period_start": "2025-06-02T10:34:01.345735+00:00",
+  "period_end": "2026-05-28T10:34:01.345735+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -130,36 +130,6 @@
         "language": "Python",
         "pushed_at": "2026-02-09T10:32:36+00:00",
         "url": "https://github.com/eoinjordan/jetbot_ros_rubikpi"
-      },
-      {
-        "name": "SensingAirOutdoorAirQualityGSM",
-        "full_name": "eoinjordan/SensingAirOutdoorAirQualityGSM",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": "C++",
-        "pushed_at": "2022-08-01T19:16:31+00:00",
-        "url": "https://github.com/eoinjordan/SensingAirOutdoorAirQualityGSM"
-      },
-      {
-        "name": "IsItOn",
-        "full_name": "eoinjordan/IsItOn",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": null,
-        "pushed_at": "2022-03-21T22:17:42+00:00",
-        "url": "https://github.com/eoinjordan/IsItOn"
-      },
-      {
-        "name": "climathon",
-        "full_name": "eoinjordan/climathon",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": null,
-        "pushed_at": "2016-10-28T01:54:52+00:00",
-        "url": "https://github.com/eoinjordan/climathon"
       }
     ],
     "org_repos": {},
@@ -176,38 +146,6 @@
       "C++": 1
     },
     "contributions": [
-      {
-        "date": "2025-05-25",
-        "level": 0
-      },
-      {
-        "date": "2025-05-26",
-        "level": 0
-      },
-      {
-        "date": "2025-05-27",
-        "level": 1
-      },
-      {
-        "date": "2025-05-28",
-        "level": 1
-      },
-      {
-        "date": "2025-05-29",
-        "level": 1
-      },
-      {
-        "date": "2025-05-30",
-        "level": 0
-      },
-      {
-        "date": "2025-05-31",
-        "level": 0
-      },
-      {
-        "date": "2025-06-01",
-        "level": 0
-      },
       {
         "date": "2025-06-02",
         "level": 0
@@ -1653,7 +1591,7 @@
         "level": 2
       }
     ],
-    "contributions_total": 811
+    "contributions_total": 213
   },
   "forum": {
     "user": "eoin",
@@ -1702,24 +1640,6 @@
         "title": "edge aiNew Integration: Fully Labeled Synthetic Data for Manufacturing from Vision DatasetsBy Eoin JordanJul 30, 2025",
         "url": "https://www.edgeimpulse.com/blog/new-integration-fully-labeled-synthetic-data-for-manufacturing-from-vision-datasets/",
         "date": "2025-07-30T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiHow to Generate Hours of Synthetic Data in Minutes with MATLABBy Eoin JordanApr 9, 2025",
-        "url": "https://www.edgeimpulse.com/blog/how-to-generate-hours-of-synthetic-data-in-minutes-with-matlab/",
-        "date": "2025-04-09T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiIntroducing... Minecraft Synthetic Data GenerationBy Eoin JordanApr 1, 2025",
-        "url": "https://www.edgeimpulse.com/blog/introducing-minecraft-synthetic-data-generation/",
-        "date": "2025-04-01T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiAutomated Articulatory Speech Synthesis for AnimationBy Eoin JordanMar 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/bringing-animation-to-life-with-phoneme-classifier-and-articulatory-speech-synthesis-2/",
-        "date": "2025-03-28T00:00:00+00:00",
         "excerpt": null
       }
     ],
