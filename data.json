@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T10:28:39.539175+00:00",
+  "generated_at": "2026-05-28T10:32:54.931596+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-06-02T10:28:39.487473+00:00",
-  "period_end": "2026-05-28T10:28:39.487473+00:00",
+  "period_start": "2025-06-02T10:32:54.879075+00:00",
+  "period_end": "2026-05-28T10:32:54.879075+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -146,38 +146,6 @@
       "C++": 1
     },
     "contributions": [
-      {
-        "date": "2025-05-25",
-        "level": 0
-      },
-      {
-        "date": "2025-05-26",
-        "level": 0
-      },
-      {
-        "date": "2025-05-27",
-        "level": 1
-      },
-      {
-        "date": "2025-05-28",
-        "level": 1
-      },
-      {
-        "date": "2025-05-29",
-        "level": 1
-      },
-      {
-        "date": "2025-05-30",
-        "level": 0
-      },
-      {
-        "date": "2025-05-31",
-        "level": 0
-      },
-      {
-        "date": "2025-06-01",
-        "level": 0
-      },
       {
         "date": "2025-06-02",
         "level": 0
@@ -1623,7 +1591,7 @@
         "level": 2
       }
     ],
-    "contributions_total": 811
+    "contributions_total": 213
   },
   "forum": {
     "user": "eoin",
