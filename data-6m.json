@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T10:23:27.231841+00:00",
+  "generated_at": "2026-05-28T10:28:39.487125+00:00",
   "period_label": "Last 6 months",
-  "period_start": "2025-11-29T10:23:25.395682+00:00",
-  "period_end": "2026-05-28T10:23:25.395682+00:00",
+  "period_start": "2025-11-29T10:28:39.388814+00:00",
+  "period_end": "2026-05-28T10:28:39.388814+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -1855,6 +1855,31 @@
     ],
     "honors": [
       {
+        "title": "Zephyr Project \u2014 Technical Contributor",
+        "issuer": "The Zephyr Project (Linux Foundation)",
+        "year": "2026"
+      },
+      {
+        "title": "Edge Impulse becomes an external module in the Zephyr Project",
+        "issuer": "Co-authored with Francesco Varani",
+        "year": "2026"
+      },
+      {
+        "title": "Featured in Harvard open-source TinyML book (3D-printed Edge AI cases)",
+        "issuer": "Harvard / TinyML community",
+        "year": "2025"
+      },
+      {
+        "title": "IEEE publication \u2014 Edge-Intelligence-Enabled Smart Sensors",
+        "issuer": "IEEE",
+        "year": "2025"
+      },
+      {
+        "title": "Elektor feature article \u2014 Arduino Opta PLC: Dual-System Industrial Hero",
+        "issuer": "Elektor Magazine",
+        "year": "2025"
+      },
+      {
         "title": "Digital Maker Champion",
         "issuer": "Galway National Park City",
         "year": "2020"
@@ -1879,6 +1904,92 @@
         "start": "2010-09",
         "end": "Present",
         "notes": "Teaching at Tirellan Heights National School."
+      }
+    ],
+    "talks": [
+      {
+        "title": "Edge Impulse as a Zephyr external module \u2014 webinar",
+        "venue": "Zephyr Project (with Francesco Varani & Benjamin Cab\u00e9)",
+        "audience": "Zephyr community",
+        "date": "2026-02",
+        "url": "https://zephyrproject.org/"
+      },
+      {
+        "title": "Edge AI on Arduino UNO Q \u2014 MWC Barcelona demos",
+        "venue": "Mobile World Congress, Barcelona",
+        "audience": "Industry / partners",
+        "date": "2026-03",
+        "url": ""
+      },
+      {
+        "title": "On-device GenAI with QNN \u2014 Qualcomm San Diego",
+        "venue": "Qualcomm HQ, San Diego",
+        "audience": "Qualcomm engineering & partners",
+        "date": "2026-04",
+        "url": ""
+      },
+      {
+        "title": "Edge AI guest lecture \u2014 Arduino Day",
+        "venue": "University College Cork (UCC)",
+        "audience": "200+ students",
+        "date": "2026-03",
+        "url": ""
+      },
+      {
+        "title": "MLOps and QNN on Snapdragon \u2014 joint session",
+        "venue": "Munster Technological University \u00d7 Qualcomm",
+        "audience": "Students & faculty",
+        "date": "2026-04",
+        "url": ""
+      },
+      {
+        "title": "Embedded ML onsite enablement",
+        "venue": "Qualcomm Embedded team",
+        "audience": "Qualcomm engineers",
+        "date": "2026-02",
+        "url": ""
+      },
+      {
+        "title": "Edge AI for medtech innovators (guest lecture, 3rd year running)",
+        "venue": "BioInnovate Ireland",
+        "audience": "BioInnovate Fellows",
+        "date": "2024 \u2013 2026",
+        "url": ""
+      },
+      {
+        "title": "Edge AI for automotive \u2014 onsite session",
+        "venue": "Future Mobility Automotive Research Group, University of Galway",
+        "audience": "Researchers",
+        "date": "2025",
+        "url": ""
+      },
+      {
+        "title": "Qualcomm + Dell robotics enablement",
+        "venue": "Qualcomm / Dell, Cork",
+        "audience": "Robotics partners",
+        "date": "2026",
+        "url": ""
+      },
+      {
+        "title": "Optimized MLOps with Edge Impulse, Blues and Zephyr",
+        "venue": "Zephyr Project webinar",
+        "audience": "Embedded developers",
+        "date": "2024",
+        "url": "https://zephyrproject.org/event/optimized-mlops-with-edge-impulse-blues-and-zephyr-webinar/"
+      },
+      {
+        "title": "Industrial PLC anomaly detection with Arduino Opta",
+        "venue": "Edge Impulse / Arduino webinar",
+        "audience": "Industrial developers",
+        "date": "2024",
+        "url": "https://www.youtube.com/watch?v=6lTeBpy1QrQ"
+      },
+      {
+        "title": "Car Whispering: the AI Mechanic",
+        "venue": "FOSDEM",
+        "audience": "Open-source community",
+        "date": "2022-02",
+        "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/"
       }
     ],
     "stats": {

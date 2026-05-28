@@ -53,6 +53,16 @@
     featured: { kind: "object", fields: [["title", "Title"], ["url", "URL"]] },
     projects: { kind: "object", fields: [["name", "Name"], ["url", "URL"]] },
     honors: { kind: "object", fields: [["title", "Title"], ["issuer", "Issuer"], ["year", "Year"]] },
+    talks: {
+      kind: "object",
+      fields: [
+        ["title", "Title"],
+        ["venue", "Venue / event"],
+        ["audience", "Audience"],
+        ["date", "Date (YYYY or YYYY-MM)"],
+        ["url", "URL"],
+      ],
+    },
     volunteering: {
       kind: "object",
       fields: [["role", "Role"], ["org", "Organisation"], ["start", "Start"], ["end", "End"], ["notes", "Notes", "textarea"]],
