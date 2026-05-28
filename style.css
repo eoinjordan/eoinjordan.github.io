@@ -4,6 +4,8 @@
 body{font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--fg);background:var(--bg);margin:0}
 .wrap{max-width:920px;margin:0 auto;padding:32px 20px 80px}
 header{display:flex;flex-direction:column;gap:6px;margin-bottom:24px}
+.id{display:flex;align-items:center;gap:16px}
+.avatar{width:84px;height:84px;border-radius:50%;border:2px solid var(--border);object-fit:cover;flex:none}
 h1{font-size:2rem;margin:0}
 .tag{color:var(--muted)}
 .links a{margin-right:14px;color:var(--accent);text-decoration:none}
@@ -60,3 +62,8 @@ a{color:var(--accent)}
 }
 .legend{display:flex;align-items:center;gap:4px;font-size:.78rem;color:var(--muted);margin-top:4px;justify-content:flex-end}
 .legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin:0 1px}
+.tabs{display:inline-flex;gap:4px;background:var(--bg);border:1px solid var(--border);border-radius:999px;padding:4px;margin:6px 0 0;align-self:flex-start}
+.tabs a{padding:6px 14px;border-radius:999px;text-decoration:none;color:var(--muted);font-size:.88rem;font-weight:500}
+.tabs a:hover{color:var(--fg)}
+.tabs a.on{background:var(--accent);color:#fff}
+.tabs a.on:hover{color:#fff}

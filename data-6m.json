@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T10:23:27.287967+00:00",
-  "period_label": "Last 12 months",
-  "period_start": "2025-06-02T10:23:27.231857+00:00",
-  "period_end": "2026-05-28T10:23:27.231857+00:00",
+  "generated_at": "2026-05-28T10:23:27.231841+00:00",
+  "period_label": "Last 6 months",
+  "period_start": "2025-11-29T10:23:25.395682+00:00",
+  "period_end": "2026-05-28T10:23:25.395682+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -1654,24 +1654,6 @@
         "title": "zephyrEdge Impulse \u00d7 Zephyr: New West Extension CommandsBy Eoin JordanJan 6, 2026",
         "url": "https://www.edgeimpulse.com/blog/edge-impulse-x-zephyr-new-west-extension-commands/",
         "date": "2026-01-06T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiAnnouncing the Edge Impulse Zephyr ModuleBy Eoin JordanOct 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/announcing-the-edge-impulse-zephyr-module/",
-        "date": "2025-10-28T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge ai2D to 3D Conversion: Synthetic Asset Generation with Hunyuan-3D and Blender for Edge AI DatasetsBy Eoin JordanAug 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/2d-to-3d-conversion-synthetic-asset-generation-with-hunyuan-3d-and-blender-for-edge-ai-datasets/",
-        "date": "2025-08-28T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiNew Integration: Fully Labeled Synthetic Data for Manufacturing from Vision DatasetsBy Eoin JordanJul 30, 2025",
-        "url": "https://www.edgeimpulse.com/blog/new-integration-fully-labeled-synthetic-data-for-manufacturing-from-vision-datasets/",
-        "date": "2025-07-30T00:00:00+00:00",
         "excerpt": null
       }
     ],
