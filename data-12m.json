@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-28T10:34:01.396746+00:00",
+  "generated_at": "2026-05-28T11:08:11.937859+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-06-02T10:34:01.345735+00:00",
-  "period_end": "2026-05-28T10:34:01.345735+00:00",
+  "period_start": "2025-06-02T11:08:11.867702+00:00",
+  "period_end": "2026-05-28T11:08:11.867702+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -1899,6 +1899,13 @@
         "audience": "Zephyr community",
         "date": "2026-02",
         "url": "https://zephyrproject.org/"
+      },
+      {
+        "title": "Arrow AI roadshow \u2014 Edge AI on Qualcomm / Arduino / Zephyr",
+        "venue": "Queen's University Belfast \u2014 Future Mobility campus",
+        "audience": "Students, faculty and industry",
+        "date": "2026",
+        "url": ""
       },
       {
         "title": "Edge AI on Arduino UNO Q \u2014 MWC Barcelona demos",
