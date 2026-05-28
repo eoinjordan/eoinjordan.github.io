@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Profile editor — eoin-stats</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="robots" content="noindex" />
+<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="editor.css" />
+</head>
+<body>
+<main class="wrap">
+<header>
+  <h1>Profile editor</h1>
+  <div class="tag">Edit <code>profile/linkedin.json</code> in your private stats repo directly from this page.</div>
+  <div class="tag">Your GitHub token is kept in this browser's <code>localStorage</code> only — never sent anywhere except <code>api.github.com</code>.</div>
+  <div class="links" style="margin-top:8px"><a href="index.html">← back to public profile</a></div>
+</header>
+
+<section id="auth-section">
+  <h2>1. Sign in</h2>
+  <p class="tag">
+    Create a <a href="https://github.com/settings/personal-access-tokens/new" rel="noopener">fine-grained Personal Access Token</a>
+    scoped to a single repo with <code>Contents: Read &amp; Write</code>. Paste it below.
+  </p>
+  <div class="grid">
+    <label>GitHub token (PAT)<input id="f-token" type="password" autocomplete="off" placeholder="github_pat_..." /></label>
+    <label>Repo owner<input id="f-owner" type="text" placeholder="eoinjordan" value="eoinjordan" /></label>
+    <label>Repo name<input id="f-repo" type="text" placeholder="eoin-stats" value="eoin-stats" /></label>
+    <label>Path<input id="f-path" type="text" value="profile/linkedin.json" /></label>
+    <label>Branch<input id="f-branch" type="text" value="main" /></label>
+  </div>
+  <div class="actions">
+    <button id="btn-load" type="button">Load from GitHub</button>
+    <button id="btn-forget" type="button" class="ghost">Forget token</button>
+    <span id="auth-status" class="tag"></span>
+  </div>
+</section>
+
+<section id="editor-section" hidden>
+  <h2>2. Edit</h2>
+  <div class="tabs">
+    <button class="tab on" data-tab="form" type="button">Form</button>
+    <button class="tab" data-tab="raw" type="button">Raw JSON</button>
+  </div>
+
+  <div id="tab-form" class="tabpane">
+    <div id="scalar-fields" class="grid"></div>
+
+    <details open><summary>Skills</summary><div id="list-skills" class="list"></div>
+      <button class="add" data-list="skills" type="button">+ skill</button></details>
+
+    <details open><summary>Languages</summary><div id="list-languages" class="list"></div>
+      <button class="add" data-list="languages" type="button">+ language</button></details>
+
+    <details open><summary>Experience</summary><div id="list-experience" class="list"></div>
+      <button class="add" data-list="experience" type="button">+ role</button></details>
+
+    <details><summary>Education</summary><div id="list-education" class="list"></div>
+      <button class="add" data-list="education" type="button">+ entry</button></details>
+
+    <details><summary>Certifications</summary><div id="list-certifications" class="list"></div>
+      <button class="add" data-list="certifications" type="button">+ certification</button></details>
+
+    <details><summary>Featured</summary><div id="list-featured" class="list"></div>
+      <button class="add" data-list="featured" type="button">+ featured item</button></details>
+
+    <details><summary>Projects</summary><div id="list-projects" class="list"></div>
+      <button class="add" data-list="projects" type="button">+ project</button></details>
+
+    <details><summary>Honors</summary><div id="list-honors" class="list"></div>
+      <button class="add" data-list="honors" type="button">+ honor</button></details>
+
+    <details><summary>Volunteering</summary><div id="list-volunteering" class="list"></div>
+      <button class="add" data-list="volunteering" type="button">+ entry</button></details>
+
+    <details><summary>Top LinkedIn posts</summary><div id="list-top_posts" class="list"></div>
+      <button class="add" data-list="top_posts" type="button">+ post</button></details>
+
+    <details><summary>LinkedIn stats</summary><div id="obj-stats" class="grid"></div></details>
+    <details><summary>Links</summary><div id="obj-links" class="grid"></div></details>
+
+    <details><summary>Hugging Face (manual)</summary>
+      <div id="obj-huggingface-scalars" class="grid"></div>
+      <div class="sub">Highlights</div>
+      <div id="list-huggingface_highlights" class="list"></div>
+      <button class="add" data-list="huggingface_highlights" type="button">+ highlight</button>
+      <div class="sub">Featured models</div>
+      <div id="list-huggingface_featured_models" class="list"></div>
+      <button class="add" data-list="huggingface_featured_models" type="button">+ model</button>
+      <div class="sub">Featured datasets</div>
+      <div id="list-huggingface_featured_datasets" class="list"></div>
+      <button class="add" data-list="huggingface_featured_datasets" type="button">+ dataset</button>
+      <div class="sub">Featured spaces</div>
+      <div id="list-huggingface_featured_spaces" class="list"></div>
+      <button class="add" data-list="huggingface_featured_spaces" type="button">+ space</button>
+    </details>
+
+    <details><summary>Thingiverse (manual)</summary>
+      <div id="obj-thingiverse-scalars" class="grid"></div>
+      <div class="sub">Designs</div>
+      <div id="list-thingiverse_designs" class="list"></div>
+      <button class="add" data-list="thingiverse_designs" type="button">+ design</button>
+    </details>
+  </div>
+
+  <div id="tab-raw" class="tabpane" hidden>
+    <p class="tag">Edit or paste full JSON. <button id="btn-from-form" type="button" class="ghost">Sync from form</button>
+      <button id="btn-to-form" type="button" class="ghost">Apply to form</button></p>
+    <textarea id="raw-json" spellcheck="false"></textarea>
+  </div>
+
+  <div class="actions sticky">
+    <button id="btn-save" type="button">Commit to GitHub</button>
+    <button id="btn-download" type="button" class="ghost">Download JSON</button>
+    <span id="save-status" class="tag"></span>
+  </div>
+</section>
+
+<footer>This editor only talks to api.github.com with the token you provide.</footer>
+</main>
+<script src="editor.js"></script>
+</body>
+</html>
