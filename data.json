@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-05-28T11:09:09.191136+00:00",
+  "generated_at": "2026-06-07T13:50:38.111839+00:00",
   "period_label": "Career",
   "period_start": null,
-  "period_end": "2026-05-28T11:09:09.139260+00:00",
+  "period_end": "2026-06-07T13:50:37.734047+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
     "bio": "\r\n\r\nI am pursuing a PhD in Interoperability for IoT and funded for the Infinitech project, working with semantic technologies for the financial sector under the",
     "followers": 7,
-    "public_repos": 26,
+    "public_repos": 34,
     "avatar_url": "https://avatars.githubusercontent.com/u/11853924?v=4",
     "repos": [
+      {
+        "name": "mindstorms-robot-creator-android",
+        "full_name": "eoinjordan/mindstorms-robot-creator-android",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2026-06-07T13:31:17+00:00",
+        "url": "https://github.com/eoinjordan/mindstorms-robot-creator-android"
+      },
+      {
+        "name": "mindstorms-robot-creator",
+        "full_name": "eoinjordan/mindstorms-robot-creator",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-06-07T13:22:12+00:00",
+        "url": "https://github.com/eoinjordan/mindstorms-robot-creator"
+      },
+      {
+        "name": "GBA-Studio",
+        "full_name": "eoinjordan/GBA-Studio",
+        "description": null,
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-06-01T15:39:42+00:00",
+        "url": "https://github.com/eoinjordan/GBA-Studio"
+      },
+      {
+        "name": "sports-smalltalk-copilot",
+        "full_name": "eoinjordan/sports-smalltalk-copilot",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2026-05-31T20:21:38+00:00",
+        "url": "https://github.com/eoinjordan/sports-smalltalk-copilot"
+      },
+      {
+        "name": "microbit-agent",
+        "full_name": "eoinjordan/microbit-agent",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-05-31T16:36:18+00:00",
+        "url": "https://github.com/eoinjordan/microbit-agent"
+      },
+      {
+        "name": "microbit-mcp",
+        "full_name": "eoinjordan/microbit-mcp",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-05-31T15:58:48+00:00",
+        "url": "https://github.com/eoinjordan/microbit-mcp"
+      },
+      {
+        "name": "microbit-mcpcd",
+        "full_name": "eoinjordan/microbit-mcpcd",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-05-31T15:18:54+00:00",
+        "url": "https://github.com/eoinjordan/microbit-mcpcd"
+      },
+      {
+        "name": "pxt-microbit-airweshare",
+        "full_name": "eoinjordan/pxt-microbit-airweshare",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-05-31T15:16:10+00:00",
+        "url": "https://github.com/eoinjordan/pxt-microbit-airweshare"
+      },
       {
         "name": "eoinjordan.github.io",
         "full_name": "eoinjordan/eoinjordan.github.io",
@@ -18,7 +98,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "pushed_at": "2026-05-28T10:16:17+00:00",
+        "pushed_at": "2026-05-28T11:09:13+00:00",
         "url": "https://github.com/eoinjordan/eoinjordan.github.io"
       },
       {
@@ -60,26 +140,6 @@
         "language": "Jupyter Notebook",
         "pushed_at": "2026-05-14T14:33:56+00:00",
         "url": "https://github.com/eoinjordan/pi-openclaw-mcp-stack"
-      },
-      {
-        "name": "mindstorms-robot-creator",
-        "full_name": "eoinjordan/mindstorms-robot-creator",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript",
-        "pushed_at": "2026-05-10T22:23:17+00:00",
-        "url": "https://github.com/eoinjordan/mindstorms-robot-creator"
-      },
-      {
-        "name": "mindstorms-robot-creator-android",
-        "full_name": "eoinjordan/mindstorms-robot-creator-android",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": "Kotlin",
-        "pushed_at": "2026-05-10T21:51:35+00:00",
-        "url": "https://github.com/eoinjordan/mindstorms-robot-creator-android"
       },
       {
         "name": "doom-godmode",
@@ -164,74 +224,18 @@
     ],
     "org_repos": {},
     "recent_commits": [],
-    "total_stars": 20,
+    "total_stars": 21,
     "languages": {
+      "Kotlin": 2,
+      "JavaScript": 4,
+      "TypeScript": 6,
       "HTML": 1,
-      "JavaScript": 3,
       "Shell": 1,
       "Python": 2,
       "Jupyter Notebook": 2,
-      "Kotlin": 1,
-      "TypeScript": 2,
       "C++": 1
     },
     "contributions": [
-      {
-        "date": "2025-05-25",
-        "level": 0
-      },
-      {
-        "date": "2025-05-26",
-        "level": 0
-      },
-      {
-        "date": "2025-05-27",
-        "level": 1
-      },
-      {
-        "date": "2025-05-28",
-        "level": 1
-      },
-      {
-        "date": "2025-05-29",
-        "level": 1
-      },
-      {
-        "date": "2025-05-30",
-        "level": 0
-      },
-      {
-        "date": "2025-05-31",
-        "level": 0
-      },
-      {
-        "date": "2025-06-01",
-        "level": 0
-      },
-      {
-        "date": "2025-06-02",
-        "level": 0
-      },
-      {
-        "date": "2025-06-03",
-        "level": 0
-      },
-      {
-        "date": "2025-06-04",
-        "level": 0
-      },
-      {
-        "date": "2025-06-05",
-        "level": 0
-      },
-      {
-        "date": "2025-06-06",
-        "level": 0
-      },
-      {
-        "date": "2025-06-07",
-        "level": 0
-      },
       {
         "date": "2025-06-08",
         "level": 0
@@ -1650,79 +1654,64 @@
       },
       {
         "date": "2026-05-28",
-        "level": 2
+        "level": 3
+      },
+      {
+        "date": "2026-05-29",
+        "level": 1
+      },
+      {
+        "date": "2026-05-30",
+        "level": 1
+      },
+      {
+        "date": "2026-05-31",
+        "level": 4
+      },
+      {
+        "date": "2026-06-01",
+        "level": 1
+      },
+      {
+        "date": "2026-06-02",
+        "level": 1
+      },
+      {
+        "date": "2026-06-03",
+        "level": 1
+      },
+      {
+        "date": "2026-06-04",
+        "level": 0
+      },
+      {
+        "date": "2026-06-05",
+        "level": 1
+      },
+      {
+        "date": "2026-06-06",
+        "level": 0
+      },
+      {
+        "date": "2026-06-07",
+        "level": 0
       }
     ],
-    "contributions_total": 811
+    "contributions_total": 873
   },
   "forum": {
     "user": "eoin",
-    "posts_count": 899,
-    "posts_read": 5372,
+    "posts_count": 901,
+    "posts_read": 5387,
     "likes_received": 151,
     "likes_given": 390,
     "topics_created": 5,
-    "days_visited": 661,
+    "days_visited": 667,
     "profile_url": "https://forum.edgeimpulse.com/u/eoin"
   },
   "blog": {
     "author": "eoinjordan",
-    "posts": [
-      {
-        "title": "edge aiLessons Learned From Building an Agentic AI MCP Server for Edge ImpulseBy Eoin JordanFeb 10, 2026",
-        "url": "https://www.edgeimpulse.com/blog/lessons-learned-from-building-an-agentic-ai-mcp-server-for-edge-impulse/",
-        "date": "2026-02-10T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiUnlocking Hardware Acceleration for Android with Qualcomm QNNBy Eoin JordanJan 27, 2026",
-        "url": "https://www.edgeimpulse.com/blog/unlocking-hardware-acceleration-for-android-with-qualcomm-qnn/",
-        "date": "2026-01-27T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "zephyrEdge Impulse \u00d7 Zephyr: New West Extension CommandsBy Eoin JordanJan 6, 2026",
-        "url": "https://www.edgeimpulse.com/blog/edge-impulse-x-zephyr-new-west-extension-commands/",
-        "date": "2026-01-06T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiAnnouncing the Edge Impulse Zephyr ModuleBy Eoin JordanOct 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/announcing-the-edge-impulse-zephyr-module/",
-        "date": "2025-10-28T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge ai2D to 3D Conversion: Synthetic Asset Generation with Hunyuan-3D and Blender for Edge AI DatasetsBy Eoin JordanAug 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/2d-to-3d-conversion-synthetic-asset-generation-with-hunyuan-3d-and-blender-for-edge-ai-datasets/",
-        "date": "2025-08-28T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiNew Integration: Fully Labeled Synthetic Data for Manufacturing from Vision DatasetsBy Eoin JordanJul 30, 2025",
-        "url": "https://www.edgeimpulse.com/blog/new-integration-fully-labeled-synthetic-data-for-manufacturing-from-vision-datasets/",
-        "date": "2025-07-30T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiHow to Generate Hours of Synthetic Data in Minutes with MATLABBy Eoin JordanApr 9, 2025",
-        "url": "https://www.edgeimpulse.com/blog/how-to-generate-hours-of-synthetic-data-in-minutes-with-matlab/",
-        "date": "2025-04-09T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiIntroducing... Minecraft Synthetic Data GenerationBy Eoin JordanApr 1, 2025",
-        "url": "https://www.edgeimpulse.com/blog/introducing-minecraft-synthetic-data-generation/",
-        "date": "2025-04-01T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "edge aiAutomated Articulatory Speech Synthesis for AnimationBy Eoin JordanMar 28, 2025",
-        "url": "https://www.edgeimpulse.com/blog/bringing-animation-to-life-with-phoneme-classifier-and-articulatory-speech-synthesis-2/",
-        "date": "2025-03-28T00:00:00+00:00",
-        "excerpt": null
-      }
-    ],
+    "posts": [],
     "profile_url": "https://www.edgeimpulse.com/blog/author/eoinjordan/"
   },
   "linkedin": {
@@ -2224,7 +2213,7 @@
       {
         "id": "eoinedge/edgeai-docs-qwen2.5-coder-0.5b-lora",
         "kind": "model",
-        "downloads": 181,
+        "downloads": 188,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2269,7 +2258,7 @@
       {
         "id": "eoinedge/edgeai-qwen2.5coder-1.5b-lora",
         "kind": "model",
-        "downloads": 88,
+        "downloads": 89,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2296,7 +2285,7 @@
       {
         "id": "eoinedge/arduino-edgeai-qwen-combined-0.5b-lora",
         "kind": "model",
-        "downloads": 21,
+        "downloads": 22,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2305,7 +2294,7 @@
       {
         "id": "eoinedge/irish-abc-qwen2-5-lora",
         "kind": "model",
-        "downloads": 30,
+        "downloads": 34,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2316,7 +2305,7 @@
       {
         "id": "eoinedge/spark-plug-classification",
         "kind": "dataset",
-        "downloads": 24,
+        "downloads": 64,
         "likes": 0,
         "task": "",
         "private": false,
@@ -2325,7 +2314,7 @@
       {
         "id": "eoinedge/spark-plug-anomaly-detection",
         "kind": "dataset",
-        "downloads": 23,
+        "downloads": 80,
         "likes": 1,
         "task": "",
         "private": false,
@@ -2343,7 +2332,7 @@
         "url": "https://huggingface.co/spaces/eoinedge/edgeimpulse"
       }
     ],
-    "total_downloads": 373,
+    "total_downloads": 483,
     "total_likes": 1
   }
 }
