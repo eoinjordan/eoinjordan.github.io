@@ -1,25 +1,95 @@
 {
-  "generated_at": "2026-06-07T13:50:38.111839+00:00",
+  "generated_at": "2026-08-25T14:17:47.100179+00:00",
   "period_label": "Career",
   "period_start": null,
-  "period_end": "2026-06-07T13:50:37.734047+00:00",
+  "period_end": "2026-08-25T14:17:46.543182+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
     "bio": "\r\n\r\nI am pursuing a PhD in Interoperability for IoT and funded for the Infinitech project, working with semantic technologies for the financial sector under the",
-    "followers": 7,
-    "public_repos": 34,
+    "followers": 15,
+    "public_repos": 45,
     "avatar_url": "https://avatars.githubusercontent.com/u/11853924?v=4",
     "repos": [
       {
-        "name": "mindstorms-robot-creator-android",
-        "full_name": "eoinjordan/mindstorms-robot-creator-android",
+        "name": "trowser",
+        "full_name": "eoinjordan/trowser",
         "description": null,
         "stars": 0,
         "forks": 0,
-        "language": "Kotlin",
-        "pushed_at": "2026-06-07T13:31:17+00:00",
-        "url": "https://github.com/eoinjordan/mindstorms-robot-creator-android"
+        "language": "TypeScript",
+        "pushed_at": "2026-08-24T15:36:46+00:00",
+        "url": "https://github.com/eoinjordan/trowser"
+      },
+      {
+        "name": "socialstories",
+        "full_name": "eoinjordan/socialstories",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-08-14T02:08:22+00:00",
+        "url": "https://github.com/eoinjordan/socialstories"
+      },
+      {
+        "name": "GBA-Studio",
+        "full_name": "eoinjordan/GBA-Studio",
+        "description": null,
+        "stars": 7,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2026-07-20T10:47:44+00:00",
+        "url": "https://github.com/eoinjordan/GBA-Studio"
+      },
+      {
+        "name": "gba-engine",
+        "full_name": "eoinjordan/gba-engine",
+        "description": "Portable C runtime for Game Boy Advance homebrew (devkitARM): HAL, Mode 0 background rendering, scene/actor management, and a minimal scripted-behaviour VM. Extracted from GBA Studio for standalone reuse.",
+        "stars": 1,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2026-07-20T02:07:52+00:00",
+        "url": "https://github.com/eoinjordan/gba-engine"
+      },
+      {
+        "name": "snes-studio",
+        "full_name": "eoinjordan/snes-studio",
+        "description": "Kid-friendly, human-in-the-loop SNES homebrew game studio. Ships Poachermon (Gotta Save 'Em All!) as the launch template. Visual editor, native asset pipeline, EmulatorJS preview. Free to deploy on Vercel/Netlify.",
+        "stars": 2,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-07-19T20:08:57+00:00",
+        "url": "https://github.com/eoinjordan/snes-studio"
+      },
+      {
+        "name": "jetbot_ros_rubikpi",
+        "full_name": "eoinjordan/jetbot_ros_rubikpi",
+        "description": "Porting this jetbot kit to the rubik pi",
+        "stars": 0,
+        "forks": 2,
+        "language": "Python",
+        "pushed_at": "2026-07-09T10:35:20+00:00",
+        "url": "https://github.com/eoinjordan/jetbot_ros_rubikpi"
+      },
+      {
+        "name": "unoq-braccio",
+        "full_name": "eoinjordan/unoq-braccio",
+        "description": null,
+        "stars": 3,
+        "forks": 1,
+        "language": "Python",
+        "pushed_at": "2026-07-09T10:34:07+00:00",
+        "url": "https://github.com/eoinjordan/unoq-braccio"
+      },
+      {
+        "name": "home-assistant",
+        "full_name": "eoinjordan/home-assistant",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-07-03T20:23:33+00:00",
+        "url": "https://github.com/eoinjordan/home-assistant"
       },
       {
         "name": "mindstorms-robot-creator",
@@ -28,18 +98,68 @@
         "stars": 0,
         "forks": 0,
         "language": "JavaScript",
-        "pushed_at": "2026-06-07T13:22:12+00:00",
+        "pushed_at": "2026-06-15T09:23:39+00:00",
         "url": "https://github.com/eoinjordan/mindstorms-robot-creator"
       },
       {
-        "name": "GBA-Studio",
-        "full_name": "eoinjordan/GBA-Studio",
+        "name": "mindstorms-robot-creator-android",
+        "full_name": "eoinjordan/mindstorms-robot-creator-android",
         "description": null,
-        "stars": 1,
+        "stars": 0,
         "forks": 0,
+        "language": "Kotlin",
+        "pushed_at": "2026-06-12T18:58:15+00:00",
+        "url": "https://github.com/eoinjordan/mindstorms-robot-creator-android"
+      },
+      {
+        "name": "gb-studio-agent",
+        "full_name": "eoinjordan/gb-studio-agent",
+        "description": "Claude or other MCP Agentic integration for GB Studio Automated game asset creation and project management REST API endpoints for scenes, actors, assets, and validation End-to-end workflow with your MCP server",
+        "stars": 16,
+        "forks": 4,
         "language": "TypeScript",
-        "pushed_at": "2026-06-01T15:39:42+00:00",
-        "url": "https://github.com/eoinjordan/GBA-Studio"
+        "pushed_at": "2026-06-09T17:29:38+00:00",
+        "url": "https://github.com/eoinjordan/gb-studio-agent"
+      },
+      {
+        "name": "arduino-app-lab-mcp-micropy",
+        "full_name": "eoinjordan/arduino-app-lab-mcp-micropy",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-06-07T14:51:41+00:00",
+        "url": "https://github.com/eoinjordan/arduino-app-lab-mcp-micropy"
+      },
+      {
+        "name": "applab-mcp",
+        "full_name": "eoinjordan/applab-mcp",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-06-07T14:51:34+00:00",
+        "url": "https://github.com/eoinjordan/applab-mcp"
+      },
+      {
+        "name": "wedo2-hub-firmware",
+        "full_name": "eoinjordan/wedo2-hub-firmware",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "C++",
+        "pushed_at": "2026-06-07T14:04:31+00:00",
+        "url": "https://github.com/eoinjordan/wedo2-hub-firmware"
+      },
+      {
+        "name": "eoinjordan.github.io",
+        "full_name": "eoinjordan/eoinjordan.github.io",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "pushed_at": "2026-06-07T13:51:14+00:00",
+        "url": "https://github.com/eoinjordan/eoinjordan.github.io"
       },
       {
         "name": "sports-smalltalk-copilot",
@@ -75,7 +195,7 @@
         "name": "microbit-mcpcd",
         "full_name": "eoinjordan/microbit-mcpcd",
         "description": null,
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "TypeScript",
         "pushed_at": "2026-05-31T15:18:54+00:00",
@@ -92,16 +212,6 @@
         "url": "https://github.com/eoinjordan/pxt-microbit-airweshare"
       },
       {
-        "name": "eoinjordan.github.io",
-        "full_name": "eoinjordan/eoinjordan.github.io",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "pushed_at": "2026-05-28T11:09:13+00:00",
-        "url": "https://github.com/eoinjordan/eoinjordan.github.io"
-      },
-      {
         "name": "irish-abc-companion-site",
         "full_name": "eoinjordan/irish-abc-companion-site",
         "description": "Public-ready Irish ABC companion site and Windows desktop app",
@@ -115,7 +225,7 @@
         "name": "arduino-edgeai-opencode-starter",
         "full_name": "eoinjordan/arduino-edgeai-opencode-starter",
         "description": null,
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "Shell",
         "pushed_at": "2026-05-14T18:32:05+00:00",
@@ -155,7 +265,7 @@
         "name": "CarWhispering",
         "full_name": "eoinjordan/CarWhispering",
         "description": " Car Whispering: the AI Mechanic  TinyML Audio Event Detection",
-        "stars": 9,
+        "stars": 11,
         "forks": 0,
         "language": "Jupyter Notebook",
         "pushed_at": "2026-02-24T23:57:44+00:00",
@@ -170,26 +280,6 @@
         "language": "TypeScript",
         "pushed_at": "2026-02-23T17:29:56+00:00",
         "url": "https://github.com/eoinjordan/arduino-mcp"
-      },
-      {
-        "name": "gb-studio-agent",
-        "full_name": "eoinjordan/gb-studio-agent",
-        "description": "Claude or other MCP Agentic integration for GB Studio Automated game asset creation and project management REST API endpoints for scenes, actors, assets, and validation End-to-end workflow with your MCP server",
-        "stars": 10,
-        "forks": 4,
-        "language": "TypeScript",
-        "pushed_at": "2026-02-10T12:52:06+00:00",
-        "url": "https://github.com/eoinjordan/gb-studio-agent"
-      },
-      {
-        "name": "jetbot_ros_rubikpi",
-        "full_name": "eoinjordan/jetbot_ros_rubikpi",
-        "description": "Porting this jetbot kit to the rubik pi",
-        "stars": 0,
-        "forks": 1,
-        "language": "Python",
-        "pushed_at": "2026-02-09T10:32:36+00:00",
-        "url": "https://github.com/eoinjordan/jetbot_ros_rubikpi"
       },
       {
         "name": "SensingAirOutdoorAirQualityGSM",
@@ -224,326 +314,19 @@
     ],
     "org_repos": {},
     "recent_commits": [],
-    "total_stars": 21,
+    "total_stars": 43,
     "languages": {
+      "TypeScript": 8,
+      "C": 1,
+      "Python": 5,
+      "JavaScript": 6,
       "Kotlin": 2,
-      "JavaScript": 4,
-      "TypeScript": 6,
+      "C++": 2,
       "HTML": 1,
       "Shell": 1,
-      "Python": 2,
-      "Jupyter Notebook": 2,
-      "C++": 1
+      "Jupyter Notebook": 2
     },
     "contributions": [
-      {
-        "date": "2025-06-08",
-        "level": 0
-      },
-      {
-        "date": "2025-06-09",
-        "level": 0
-      },
-      {
-        "date": "2025-06-10",
-        "level": 1
-      },
-      {
-        "date": "2025-06-11",
-        "level": 0
-      },
-      {
-        "date": "2025-06-12",
-        "level": 1
-      },
-      {
-        "date": "2025-06-13",
-        "level": 0
-      },
-      {
-        "date": "2025-06-14",
-        "level": 0
-      },
-      {
-        "date": "2025-06-15",
-        "level": 0
-      },
-      {
-        "date": "2025-06-16",
-        "level": 0
-      },
-      {
-        "date": "2025-06-17",
-        "level": 2
-      },
-      {
-        "date": "2025-06-18",
-        "level": 0
-      },
-      {
-        "date": "2025-06-19",
-        "level": 1
-      },
-      {
-        "date": "2025-06-20",
-        "level": 0
-      },
-      {
-        "date": "2025-06-21",
-        "level": 0
-      },
-      {
-        "date": "2025-06-22",
-        "level": 0
-      },
-      {
-        "date": "2025-06-23",
-        "level": 0
-      },
-      {
-        "date": "2025-06-24",
-        "level": 0
-      },
-      {
-        "date": "2025-06-25",
-        "level": 0
-      },
-      {
-        "date": "2025-06-26",
-        "level": 1
-      },
-      {
-        "date": "2025-06-27",
-        "level": 1
-      },
-      {
-        "date": "2025-06-28",
-        "level": 0
-      },
-      {
-        "date": "2025-06-29",
-        "level": 0
-      },
-      {
-        "date": "2025-06-30",
-        "level": 0
-      },
-      {
-        "date": "2025-07-01",
-        "level": 0
-      },
-      {
-        "date": "2025-07-02",
-        "level": 0
-      },
-      {
-        "date": "2025-07-03",
-        "level": 0
-      },
-      {
-        "date": "2025-07-04",
-        "level": 0
-      },
-      {
-        "date": "2025-07-05",
-        "level": 0
-      },
-      {
-        "date": "2025-07-06",
-        "level": 0
-      },
-      {
-        "date": "2025-07-07",
-        "level": 0
-      },
-      {
-        "date": "2025-07-08",
-        "level": 0
-      },
-      {
-        "date": "2025-07-09",
-        "level": 0
-      },
-      {
-        "date": "2025-07-10",
-        "level": 0
-      },
-      {
-        "date": "2025-07-11",
-        "level": 0
-      },
-      {
-        "date": "2025-07-12",
-        "level": 0
-      },
-      {
-        "date": "2025-07-13",
-        "level": 0
-      },
-      {
-        "date": "2025-07-14",
-        "level": 1
-      },
-      {
-        "date": "2025-07-15",
-        "level": 1
-      },
-      {
-        "date": "2025-07-16",
-        "level": 1
-      },
-      {
-        "date": "2025-07-17",
-        "level": 0
-      },
-      {
-        "date": "2025-07-18",
-        "level": 1
-      },
-      {
-        "date": "2025-07-19",
-        "level": 0
-      },
-      {
-        "date": "2025-07-20",
-        "level": 0
-      },
-      {
-        "date": "2025-07-21",
-        "level": 0
-      },
-      {
-        "date": "2025-07-22",
-        "level": 0
-      },
-      {
-        "date": "2025-07-23",
-        "level": 0
-      },
-      {
-        "date": "2025-07-24",
-        "level": 1
-      },
-      {
-        "date": "2025-07-25",
-        "level": 0
-      },
-      {
-        "date": "2025-07-26",
-        "level": 0
-      },
-      {
-        "date": "2025-07-27",
-        "level": 0
-      },
-      {
-        "date": "2025-07-28",
-        "level": 1
-      },
-      {
-        "date": "2025-07-29",
-        "level": 0
-      },
-      {
-        "date": "2025-07-30",
-        "level": 0
-      },
-      {
-        "date": "2025-07-31",
-        "level": 1
-      },
-      {
-        "date": "2025-08-01",
-        "level": 0
-      },
-      {
-        "date": "2025-08-02",
-        "level": 0
-      },
-      {
-        "date": "2025-08-03",
-        "level": 0
-      },
-      {
-        "date": "2025-08-04",
-        "level": 0
-      },
-      {
-        "date": "2025-08-05",
-        "level": 0
-      },
-      {
-        "date": "2025-08-06",
-        "level": 0
-      },
-      {
-        "date": "2025-08-07",
-        "level": 0
-      },
-      {
-        "date": "2025-08-08",
-        "level": 1
-      },
-      {
-        "date": "2025-08-09",
-        "level": 0
-      },
-      {
-        "date": "2025-08-10",
-        "level": 0
-      },
-      {
-        "date": "2025-08-11",
-        "level": 0
-      },
-      {
-        "date": "2025-08-12",
-        "level": 0
-      },
-      {
-        "date": "2025-08-13",
-        "level": 0
-      },
-      {
-        "date": "2025-08-14",
-        "level": 0
-      },
-      {
-        "date": "2025-08-15",
-        "level": 0
-      },
-      {
-        "date": "2025-08-16",
-        "level": 0
-      },
-      {
-        "date": "2025-08-17",
-        "level": 0
-      },
-      {
-        "date": "2025-08-18",
-        "level": 0
-      },
-      {
-        "date": "2025-08-19",
-        "level": 0
-      },
-      {
-        "date": "2025-08-20",
-        "level": 0
-      },
-      {
-        "date": "2025-08-21",
-        "level": 1
-      },
-      {
-        "date": "2025-08-22",
-        "level": 0
-      },
-      {
-        "date": "2025-08-23",
-        "level": 0
-      },
       {
         "date": "2025-08-24",
         "level": 0
@@ -554,7 +337,7 @@
       },
       {
         "date": "2025-08-26",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2025-08-27",
@@ -734,7 +517,7 @@
       },
       {
         "date": "2025-10-10",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2025-10-11",
@@ -806,7 +589,7 @@
       },
       {
         "date": "2025-10-28",
-        "level": 3
+        "level": 4
       },
       {
         "date": "2025-10-29",
@@ -926,7 +709,7 @@
       },
       {
         "date": "2025-11-27",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2025-11-28",
@@ -970,11 +753,11 @@
       },
       {
         "date": "2025-12-08",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2025-12-09",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2025-12-10",
@@ -1150,7 +933,7 @@
       },
       {
         "date": "2026-01-22",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-01-23",
@@ -1206,7 +989,7 @@
       },
       {
         "date": "2026-02-05",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-02-06",
@@ -1238,7 +1021,7 @@
       },
       {
         "date": "2026-02-13",
-        "level": 3
+        "level": 4
       },
       {
         "date": "2026-02-14",
@@ -1314,7 +1097,7 @@
       },
       {
         "date": "2026-03-04",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-03-05",
@@ -1630,7 +1413,7 @@
       },
       {
         "date": "2026-05-22",
-        "level": 3
+        "level": 4
       },
       {
         "date": "2026-05-23",
@@ -1642,11 +1425,11 @@
       },
       {
         "date": "2026-05-25",
-        "level": 2
+        "level": 3
       },
       {
         "date": "2026-05-26",
-        "level": 2
+        "level": 3
       },
       {
         "date": "2026-05-27",
@@ -1654,11 +1437,11 @@
       },
       {
         "date": "2026-05-28",
-        "level": 3
+        "level": 4
       },
       {
         "date": "2026-05-29",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-05-30",
@@ -1674,7 +1457,7 @@
       },
       {
         "date": "2026-06-02",
-        "level": 1
+        "level": 2
       },
       {
         "date": "2026-06-03",
@@ -1694,29 +1477,455 @@
       },
       {
         "date": "2026-06-07",
+        "level": 4
+      },
+      {
+        "date": "2026-06-08",
+        "level": 1
+      },
+      {
+        "date": "2026-06-09",
+        "level": 1
+      },
+      {
+        "date": "2026-06-10",
+        "level": 2
+      },
+      {
+        "date": "2026-06-11",
         "level": 0
+      },
+      {
+        "date": "2026-06-12",
+        "level": 1
+      },
+      {
+        "date": "2026-06-13",
+        "level": 1
+      },
+      {
+        "date": "2026-06-14",
+        "level": 0
+      },
+      {
+        "date": "2026-06-15",
+        "level": 1
+      },
+      {
+        "date": "2026-06-16",
+        "level": 1
+      },
+      {
+        "date": "2026-06-17",
+        "level": 1
+      },
+      {
+        "date": "2026-06-18",
+        "level": 1
+      },
+      {
+        "date": "2026-06-19",
+        "level": 1
+      },
+      {
+        "date": "2026-06-20",
+        "level": 0
+      },
+      {
+        "date": "2026-06-21",
+        "level": 0
+      },
+      {
+        "date": "2026-06-22",
+        "level": 1
+      },
+      {
+        "date": "2026-06-23",
+        "level": 0
+      },
+      {
+        "date": "2026-06-24",
+        "level": 1
+      },
+      {
+        "date": "2026-06-25",
+        "level": 0
+      },
+      {
+        "date": "2026-06-26",
+        "level": 0
+      },
+      {
+        "date": "2026-06-27",
+        "level": 0
+      },
+      {
+        "date": "2026-06-28",
+        "level": 0
+      },
+      {
+        "date": "2026-06-29",
+        "level": 0
+      },
+      {
+        "date": "2026-06-30",
+        "level": 0
+      },
+      {
+        "date": "2026-07-01",
+        "level": 0
+      },
+      {
+        "date": "2026-07-02",
+        "level": 0
+      },
+      {
+        "date": "2026-07-03",
+        "level": 2
+      },
+      {
+        "date": "2026-07-04",
+        "level": 0
+      },
+      {
+        "date": "2026-07-05",
+        "level": 1
+      },
+      {
+        "date": "2026-07-06",
+        "level": 0
+      },
+      {
+        "date": "2026-07-07",
+        "level": 0
+      },
+      {
+        "date": "2026-07-08",
+        "level": 0
+      },
+      {
+        "date": "2026-07-09",
+        "level": 2
+      },
+      {
+        "date": "2026-07-10",
+        "level": 0
+      },
+      {
+        "date": "2026-07-11",
+        "level": 0
+      },
+      {
+        "date": "2026-07-12",
+        "level": 0
+      },
+      {
+        "date": "2026-07-13",
+        "level": 1
+      },
+      {
+        "date": "2026-07-14",
+        "level": 1
+      },
+      {
+        "date": "2026-07-15",
+        "level": 1
+      },
+      {
+        "date": "2026-07-16",
+        "level": 0
+      },
+      {
+        "date": "2026-07-17",
+        "level": 0
+      },
+      {
+        "date": "2026-07-18",
+        "level": 0
+      },
+      {
+        "date": "2026-07-19",
+        "level": 2
+      },
+      {
+        "date": "2026-07-20",
+        "level": 4
+      },
+      {
+        "date": "2026-07-21",
+        "level": 2
+      },
+      {
+        "date": "2026-07-22",
+        "level": 1
+      },
+      {
+        "date": "2026-07-23",
+        "level": 0
+      },
+      {
+        "date": "2026-07-24",
+        "level": 1
+      },
+      {
+        "date": "2026-07-25",
+        "level": 0
+      },
+      {
+        "date": "2026-07-26",
+        "level": 0
+      },
+      {
+        "date": "2026-07-27",
+        "level": 0
+      },
+      {
+        "date": "2026-07-28",
+        "level": 0
+      },
+      {
+        "date": "2026-07-29",
+        "level": 1
+      },
+      {
+        "date": "2026-07-30",
+        "level": 3
+      },
+      {
+        "date": "2026-07-31",
+        "level": 2
+      },
+      {
+        "date": "2026-08-01",
+        "level": 1
+      },
+      {
+        "date": "2026-08-02",
+        "level": 1
+      },
+      {
+        "date": "2026-08-03",
+        "level": 2
+      },
+      {
+        "date": "2026-08-04",
+        "level": 1
+      },
+      {
+        "date": "2026-08-05",
+        "level": 1
+      },
+      {
+        "date": "2026-08-06",
+        "level": 1
+      },
+      {
+        "date": "2026-08-07",
+        "level": 0
+      },
+      {
+        "date": "2026-08-08",
+        "level": 0
+      },
+      {
+        "date": "2026-08-09",
+        "level": 1
+      },
+      {
+        "date": "2026-08-10",
+        "level": 2
+      },
+      {
+        "date": "2026-08-11",
+        "level": 1
+      },
+      {
+        "date": "2026-08-12",
+        "level": 0
+      },
+      {
+        "date": "2026-08-13",
+        "level": 1
+      },
+      {
+        "date": "2026-08-14",
+        "level": 1
+      },
+      {
+        "date": "2026-08-15",
+        "level": 0
+      },
+      {
+        "date": "2026-08-16",
+        "level": 0
+      },
+      {
+        "date": "2026-08-17",
+        "level": 1
+      },
+      {
+        "date": "2026-08-18",
+        "level": 1
+      },
+      {
+        "date": "2026-08-19",
+        "level": 1
+      },
+      {
+        "date": "2026-08-20",
+        "level": 1
+      },
+      {
+        "date": "2026-08-21",
+        "level": 1
+      },
+      {
+        "date": "2026-08-22",
+        "level": 1
+      },
+      {
+        "date": "2026-08-23",
+        "level": 1
+      },
+      {
+        "date": "2026-08-24",
+        "level": 1
+      },
+      {
+        "date": "2026-08-25",
+        "level": 1
       }
     ],
-    "contributions_total": 873
+    "contributions_total": 1182
   },
   "forum": {
     "user": "eoin",
-    "posts_count": 901,
-    "posts_read": 5387,
-    "likes_received": 151,
-    "likes_given": 390,
+    "posts_count": 905,
+    "posts_read": 5402,
+    "likes_received": 155,
+    "likes_given": 391,
     "topics_created": 5,
-    "days_visited": 667,
+    "days_visited": 687,
     "profile_url": "https://forum.edgeimpulse.com/u/eoin"
   },
   "blog": {
     "author": "eoinjordan",
-    "posts": [],
-    "profile_url": "https://www.edgeimpulse.com/blog/author/eoinjordan/"
+    "posts": [
+      {
+        "title": "Your Smartphone is a Portable Multimodal DAQ for Edge AI",
+        "url": "https://www.edgeimpulse.com/blog/your-smartphone-is-a-portable-multimodal-daq-for-edge-ai/",
+        "date": "2026-06-22T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Lessons Learned From Building an Agentic AI MCP Server for Edge Impulse",
+        "url": "https://www.edgeimpulse.com/blog/lessons-learned-from-building-an-agentic-ai-mcp-server-for-edge-impulse/",
+        "date": "2026-02-10T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Unlocking Hardware Acceleration for Android with Qualcomm QNN",
+        "url": "https://www.edgeimpulse.com/blog/unlocking-hardware-acceleration-for-android-with-qualcomm-qnn/",
+        "date": "2026-01-27T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Edge Impulse \u00d7 Zephyr: New West Extension Commands",
+        "url": "https://www.edgeimpulse.com/blog/edge-impulse-x-zephyr-new-west-extension-commands/",
+        "date": "2026-01-06T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Announcing the Edge Impulse Zephyr Module",
+        "url": "https://www.edgeimpulse.com/blog/announcing-the-edge-impulse-zephyr-module/",
+        "date": "2025-10-28T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "2D to 3D Conversion: Synthetic Asset Generation with Hunyuan-3D and Blender for Edge AI Datasets",
+        "url": "https://www.edgeimpulse.com/blog/2d-to-3d-conversion-synthetic-asset-generation-with-hunyuan-3d-and-blender-for-edge-ai-datasets/",
+        "date": "2025-08-28T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "New Integration: Fully Labeled Synthetic Data for Manufacturing from Vision Datasets",
+        "url": "https://www.edgeimpulse.com/blog/new-integration-fully-labeled-synthetic-data-for-manufacturing-from-vision-datasets/",
+        "date": "2025-07-30T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "How to Generate Hours of Synthetic Data in Minutes with MATLAB",
+        "url": "https://www.edgeimpulse.com/blog/how-to-generate-hours-of-synthetic-data-in-minutes-with-matlab/",
+        "date": "2025-04-09T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Introducing... Minecraft Synthetic Data Generation",
+        "url": "https://www.edgeimpulse.com/blog/introducing-minecraft-synthetic-data-generation/",
+        "date": "2025-04-01T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Automated Articulatory Speech Synthesis for Animation",
+        "url": "https://www.edgeimpulse.com/blog/bringing-animation-to-life-with-phoneme-classifier-and-articulatory-speech-synthesis-2/",
+        "date": "2025-03-28T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Getting Started with Android Studio and Edge Impulse",
+        "url": "https://www.edgeimpulse.com/blog/getting-started-with-android-studio-and-edge-impulse/",
+        "date": "2025-03-07T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "AI for Industrial Control Systems: Bringing Edge AI to PLCs",
+        "url": "https://www.edgeimpulse.com/blog/transform-industrial-control-systems-with-ai-anomaly-detection-made-easy/",
+        "date": "2024-10-21T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Heart Rate Analysis: Now Available for All Users For In-Platform Exploration",
+        "url": "https://www.edgeimpulse.com/blog/hr-hrv-dsp-block-now-available-to-evaluate/",
+        "date": "2024-10-04T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Optimize for Any Hardware with These New Edge Impulse Tools",
+        "url": "https://www.edgeimpulse.com/blog/optimize-for-any-hardware-with-these-new-edge-impulse-tools/",
+        "date": "2024-08-09T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Announcing IMU and Microphone Support for Seeed\u2019s Grove - Vision AI Module",
+        "url": "https://www.edgeimpulse.com/blog/announcing-imu-and-microphone-support-for-seeeds-grove-vision-ai-module/",
+        "date": "2023-07-05T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "ML Announcement - Transformer Support and Import Model",
+        "url": "https://www.edgeimpulse.com/blog/ml-announcement-transformer-support-and-import-model/",
+        "date": "2023-05-15T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Automagically Transform Your CSV Files with the CSV Wizard!",
+        "url": "https://www.edgeimpulse.com/blog/automagically-transform-your-csv-files-with-the-csv-wizard/",
+        "date": "2023-03-02T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "Announcing Support for the Arduino Nicla Voice",
+        "url": "https://www.edgeimpulse.com/blog/announcing-support-for-the-arduino-nicla-voice/",
+        "date": "2023-02-07T00:00:00+00:00",
+        "excerpt": null
+      }
+    ],
+    "profile_url": "https://www.edgeimpulse.com/blog/author/eoinjordan/",
+    "fetch_error": ""
   },
   "linkedin": {
     "name": "Eoin Jordan",
-    "headline": "Senior Developer Relations Engineer | Applied Edge AI Research and Developer Education",
+    "headline": "Senior Developer Relations Engineer | Applied Edge AI Research and Developer Education | Agentic AI & MCP | Edge AI | Embedded Systems",
     "location": "Galway, County Galway, Ireland",
     "summary": "I research and educate about edge-intelligent systems at the intersection of automation, IoT, and machine learning. I combine research, past experience, and hands-on work to explain how these systems operate in real-world environments. My focus is on systems that actually run in practice \u2014 particularly where modern AI tooling must integrate with legacy infrastructure and platforms \u2014 and how memory, latency, reliability, deployment, and maintainability shape system design across industrial, automotive, and embedded contexts. I work with a learn-by-doing approach: breaking systems, rebuilding them, then reading deeply to explain why they behave the way they do. Outside software I'm a hands-on automotive mechanic and driving enthusiast (N\u00fcrburgring, Mondello Park, Spa-Francorchamps), and I mentor with CoderDojo and Junior Achievement Ireland.",
     "skills": [
@@ -1852,32 +2061,7 @@
         "credential_id": "b3642f9d-8a06-49cc-b58a-c74d70a10518"
       }
     ],
-    "featured": [
-      {
-        "title": "ResearchGate profile \u2014 Eoin Jordan",
-        "url": "https://www.researchgate.net/profile/Eoin-Jordan"
-      },
-      {
-        "title": "INFINITECH H2020 \u2014 Technical Financial Innovation (TAHO chapter)",
-        "url": "http://graph-data-model.infinitech-h2020.eu/"
-      },
-      {
-        "title": "FOSDEM 2022 \u2014 Car Whispering: the AI Mechanic",
-        "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/"
-      },
-      {
-        "title": "Elektor \u2014 Arduino Opta PLC: Dual-System Industrial Hero",
-        "url": "https://www.elektormagazine.com/"
-      },
-      {
-        "title": "IBM IoT Blog \u2014 Every helmsman's dilemma (RNLI Galway, Node-RED)",
-        "url": "https://www.ibm.com/blogs/internet-of-things/"
-      },
-      {
-        "title": "IEEE \u2014 Edge-Intelligence-Enabled Smart Sensors",
-        "url": "https://ieeexplore.ieee.org/document/10905565/"
-      }
-    ],
+    "featured": [],
     "projects": [
       {
         "name": "Edge Impulse OBD Automotive Data Tutorial",
@@ -1963,24 +2147,10 @@
     ],
     "talks": [
       {
-        "title": "Edge Impulse as a Zephyr external module \u2014 webinar",
-        "venue": "Zephyr Project (with Francesco Varani & Benjamin Cab\u00e9)",
-        "audience": "Zephyr community",
-        "date": "2026-02",
-        "url": "https://zephyrproject.org/"
-      },
-      {
-        "title": "Arrow AI roadshow \u2014 Edge AI on Qualcomm / Arduino / Zephyr",
-        "venue": "Queen's University Belfast \u2014 Future Mobility campus",
-        "audience": "Students, faculty and industry",
-        "date": "2026",
-        "url": ""
-      },
-      {
-        "title": "Edge AI on Arduino UNO Q \u2014 MWC Barcelona demos",
-        "venue": "Mobile World Congress, Barcelona",
-        "audience": "Industry / partners",
-        "date": "2026-03",
+        "title": "Taking Linux Edge AI into Production",
+        "venue": "Imagine Innovators, Amsterdam",
+        "audience": "Edge AI practitioners and partners",
+        "date": "2026-05",
         "url": ""
       },
       {
@@ -1991,18 +2161,32 @@
         "url": ""
       },
       {
-        "title": "Edge AI guest lecture \u2014 Arduino Day",
-        "venue": "University College Cork (UCC)",
-        "audience": "200+ students",
+        "title": "MLOps and QNN on Snapdragon \u2014 joint session",
+        "venue": "Munster Technological University (MTU) \u00d7 Qualcomm",
+        "audience": "Students & faculty",
+        "date": "2026-04",
+        "url": ""
+      },
+      {
+        "title": "Edge AI on Arduino UNO Q \u2014 MWC Barcelona demos",
+        "venue": "Mobile World Congress, Barcelona",
+        "audience": "Industry / partners",
         "date": "2026-03",
         "url": ""
       },
       {
-        "title": "MLOps and QNN on Snapdragon \u2014 joint session",
-        "venue": "Munster Technological University \u00d7 Qualcomm",
-        "audience": "Students & faculty",
-        "date": "2026-04",
+        "title": "Edge AI guest lecture \u2014 Arduino Fun Day",
+        "venue": "University College Cork (UCC)",
+        "audience": "200+ students and interns",
+        "date": "2026-03",
         "url": ""
+      },
+      {
+        "title": "Edge Impulse as a Zephyr external module \u2014 webinar",
+        "venue": "Zephyr Project (with Francesco Varani & Benjamin Cab\u00e9)",
+        "audience": "Zephyr community",
+        "date": "2026-02",
+        "url": "https://zephyrproject.org/"
       },
       {
         "title": "Embedded ML onsite enablement",
@@ -2012,10 +2196,31 @@
         "url": ""
       },
       {
-        "title": "Edge AI for medtech innovators (guest lecture, 3rd year running)",
-        "venue": "BioInnovate Ireland",
-        "audience": "BioInnovate Fellows",
-        "date": "2024 \u2013 2026",
+        "title": "Arrow AI roadshow \u2014 Edge AI on Qualcomm / Arduino / Zephyr",
+        "venue": "Queen's University Belfast \u2014 Future Mobility campus",
+        "audience": "Students, faculty and industry",
+        "date": "2026",
+        "url": ""
+      },
+      {
+        "title": "Qualcomm + Dell robotics enablement",
+        "venue": "Qualcomm / Dell, Cork",
+        "audience": "Robotics partners",
+        "date": "2026",
+        "url": ""
+      },
+      {
+        "title": "Edge AI for mobility and automotive",
+        "venue": "Future Mobility Campus Ireland (FMCI)",
+        "audience": "Mobility researchers and industry",
+        "date": "",
+        "url": ""
+      },
+      {
+        "title": "Speaker \u2014 Droidcon NYC",
+        "venue": "Droidcon, New York City",
+        "audience": "Android developers",
+        "date": "",
         "url": ""
       },
       {
@@ -2026,10 +2231,31 @@
         "url": ""
       },
       {
-        "title": "Qualcomm + Dell robotics enablement",
-        "venue": "Qualcomm / Dell, Cork",
-        "audience": "Robotics partners",
-        "date": "2026",
+        "title": "EMEA AI upskilling session for interns",
+        "venue": "Qualcomm EMEA",
+        "audience": "Interns and early-career engineers",
+        "date": "2025 \u2013 2026",
+        "url": ""
+      },
+      {
+        "title": "LLM workshop \u2014 offline SLMs, RAG and agentic tooling",
+        "venue": "Qualcomm / Edge Impulse",
+        "audience": "Internal engineering",
+        "date": "2025 \u2013 2026",
+        "url": ""
+      },
+      {
+        "title": "Edge AI briefing for visiting academics",
+        "venue": "Qualcomm Ireland, with onsite engineering teams",
+        "audience": "Visiting professors and local faculty",
+        "date": "2025 \u2013 2026",
+        "url": ""
+      },
+      {
+        "title": "Edge AI for medtech innovators (guest lecture, 3rd year running)",
+        "venue": "BioInnovate Ireland",
+        "audience": "BioInnovate Fellows",
+        "date": "2024 \u2013 2026",
         "url": ""
       },
       {
@@ -2052,26 +2278,147 @@
         "audience": "Open-source community",
         "date": "2022-02",
         "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/"
+      },
+      {
+        "title": "IoT Summer School",
+        "venue": "NUI Galway / IBM Galway",
+        "audience": "Students and IBM engineers",
+        "date": "2014 \u2013 2017",
+        "url": ""
+      }
+    ],
+    "recommendations": [
+      {
+        "name": "Ronan Connolly",
+        "role": "Agentic engineering @ Yellowtail \u00b7 Ex-Fidelity \u00b7 Amsterdam",
+        "relationship": "Worked with Eoin at IBM, on different teams",
+        "date": "August 2018",
+        "url": "",
+        "text": "When I first started with IBM Eoin was already an experienced IBMer.\n\nAlthough he was in a different group to me he really made me feel welcome and thought me the inner workings of IBM and showed me that you need to take it upon yourself to learn, grow, and get initiatives off the ground; instead of relying on the company to do it for you.\n\nHe was involved with so many different activities yet still seemed to be getting the daily job done. Some examples were: CoderDojo, IoT Summer School, Various electronics projects, and much more.\n\nEoin is very passionate about technology and this passion is infectious. If you want to get excited about technology, just hang around with Eoin for a bit!"
+      }
+    ],
+    "kudos": [
+      {
+        "name": "Louis Moreau",
+        "role": "Edge Impulse (a Qualcomm company)",
+        "quote": "incredibly helpful handling the forum, doubling the effort since Shawn left \u2014 491 answers and 79 likes in a year.",
+        "context": "Community & forum ownership",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Josh Buck",
+        "role": "Qualcomm",
+        "quote": "Without your example we'd be toast at MSI.",
+        "context": "University & partner enablement",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Zach",
+        "role": "Edge Impulse (a Qualcomm company)",
+        "note": "Asked for the agentic AI work to be presented at the next All Hands, and for the Claude skill to be published widely.",
+        "context": "Agentic AI initiative",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Dan",
+        "role": "Edge Impulse (a Qualcomm company)",
+        "note": "Highlighted the agentic AI work as showing Edge Impulse as a platform, not just Studio.",
+        "context": "Agentic AI initiative",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Francesco",
+        "role": "Edge Impulse (a Qualcomm company)",
+        "note": "Recognised the Zephyr work \u2014 the Edge Impulse SDK documentation now lives in the Zephyr docs, tested, documented and blogged.",
+        "context": "Zephyr integration",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Linda",
+        "role": "Edge Impulse (a Qualcomm company)",
+        "note": "Recognised the fire-drill Synthetic Data Integration docs, turned around in days, and support for the Golioth partner announcement.",
+        "context": "Docs & partner launches",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Taruna Emani, Louis Moreau",
+        "role": "Qualcomm / Edge Impulse",
+        "note": "Recognition for leading the LLM workshop and shipping agentic AI \u2014 MCP server plus Claude skill \u2014 ahead of the curve.",
+        "context": "Make the Impossible Inevitable",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Paul Kelleher, Louis Moreau",
+        "role": "Qualcomm / Edge Impulse",
+        "note": "Recognition for cross-team work on agentic AI, UCC Arduino Fun Day, and expanding DevRel culture within Qualcomm.",
+        "context": "Win Together",
+        "period": "2025 \u2013 2026"
+      },
+      {
+        "name": "Eden Harris, Michael Senese, Paul Kelleher",
+        "role": "Qualcomm / Arduino",
+        "note": "Recognition for the fire-drill Synthetic Data docs, the Elektor takeover issue, and the EMEA AI upskilling session for interns.",
+        "context": "Achieve Excellence",
+        "period": "2025 \u2013 2026"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Edge Intelligence: a light in the fog \u2014 a review paper",
+        "venue": "ResearchGate",
+        "year": "",
+        "url": "https://www.researchgate.net/publication/369755285_Edge_Intelligence_a_light_in_the_fog_a_review_paper",
+        "note": "Review of edge-intelligence architectures across fog and edge deployments."
+      },
+      {
+        "title": "Edge-Intelligence-Enabled Smart Sensors",
+        "venue": "IEEE",
+        "year": "2025",
+        "url": "https://ieeexplore.ieee.org/document/10905565/",
+        "note": ""
+      },
+      {
+        "title": "INFINITECH H2020 \u2014 Technical Financial Innovation (TAHO chapter)",
+        "venue": "H2020 project deliverable",
+        "year": "",
+        "url": "http://graph-data-model.infinitech-h2020.eu/",
+        "note": ""
+      },
+      {
+        "title": "Arduino Opta PLC: Dual-System Industrial Hero",
+        "venue": "Elektor Magazine",
+        "year": "",
+        "url": "https://www.elektormagazine.com/",
+        "note": "Print article."
+      },
+      {
+        "title": "Every helmsman's dilemma \u2014 RNLI Galway, Node-RED",
+        "venue": "IBM IoT Blog",
+        "year": "",
+        "url": "https://www.ibm.com/blogs/internet-of-things/",
+        "note": ""
       }
     ],
     "stats": {
       "connections": "500+",
-      "followers": 692,
-      "profile_views_90d": 112,
-      "search_appearances_7d": 33,
-      "post_impressions_7d": 45,
-      "impressions_365d": 65274,
-      "members_reached_365d": 20700,
-      "as_of": "2026-05-28"
+      "followers": 787,
+      "profile_views_90d": 189,
+      "search_appearances_7d": 21,
+      "post_impressions_7d": 14241,
+      "impressions_365d": 84415,
+      "members_reached_365d": 28065,
+      "engagements_365d": 1363,
+      "reactions_365d": 1197,
+      "comments_365d": 71,
+      "as_of": "2026-08-25"
     },
     "top_posts": [
       {
         "date": "2026-01",
-        "impressions": 17673,
-        "reactions": 65,
-        "comments": 3,
-        "reposts": 3,
-        "summary": "Miniature arcade-machine follow-up to Julian Caro Linares' build on Arduino UNO Q \u2014 concentration tracking with CO2 + accelerometer on Zephyr.",
+        "impressions": 18000,
+        "engagements": 70,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7417898655996821504/",
+        "summary": "Miniature arcade-machine follow-up to Julian Caro Linares' build on the Arduino UNO Q \u2014 concentration tracking with CO2 and an accelerometer, testing traditional control against continuous movement sensing, running on Zephyr.",
         "tags": [
           "#unoq",
           "#zephyr",
@@ -2079,10 +2426,27 @@
         ]
       },
       {
+        "date": "2026-08",
+        "impressions": 13000,
+        "engagements": 191,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7496880603515133952/",
+        "summary": "Rebuilt Clippy as a Zephyr .llext zapp on Jonathan Beri's zephyr-desktop \u2014 Qwen Coder plus a RAG index over the real Zephyr docs, hosted on Hugging Face and runnable locally as a coding assistant.",
+        "tags": [
+          "#zephyr",
+          "#rtos",
+          "#lvgl",
+          "#edgeai",
+          "#offlinellm",
+          "#rag",
+          "#slm"
+        ]
+      },
+      {
         "date": "2026-01",
-        "impressions": 9763,
-        "reactions": 160,
-        "summary": "Edge Impulse is now an external module in the Zephyr Project documentation \u2014 co-authored with Francesco Varani; west extension commands for AI/ML workflows.",
+        "impressions": 10000,
+        "engagements": 237,
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7416841514808610816/",
+        "summary": "Edge Impulse is now an external module in the Zephyr Project documentation \u2014 bringing embedded ML into Zephyr applications as an integrated module, with new west extension commands. Co-authored with Francesco Varani.",
         "tags": [
           "#zephyr",
           "#west",
@@ -2090,21 +2454,6 @@
           "#edgeai",
           "#tinyml",
           "#opensource"
-        ]
-      },
-      {
-        "date": "2026-01",
-        "impressions": 9604,
-        "reactions": 113,
-        "comments": 2,
-        "reposts": 5,
-        "summary": "Confirmed Arduino Nesso N1 compatibility with M5Stack Bala-C kit (LEGO-compatible). Next: getting micro-ROS to run on it.",
-        "tags": [
-          "#smartbrick",
-          "#nesso",
-          "#lego",
-          "#edgeimpulse",
-          "#ros"
         ]
       }
     ],
@@ -2114,7 +2463,7 @@
       "forum": "https://forum.edgeimpulse.com/u/eoin",
       "blog": "https://www.edgeimpulse.com/blog/author/eoinjordan/",
       "linkedin": "https://www.linkedin.com/in/eoin-jordan/",
-      "researchgate": "https://www.researchgate.net/profile/Eoin-Jordan",
+      "researchgate": "https://www.researchgate.net/profile/Eoin-Jordan-4",
       "huggingface": "https://huggingface.co/eoinedge",
       "thingiverse": "https://www.thingiverse.com/eoinedge/designs"
     },
@@ -2124,10 +2473,12 @@
       "followers": 2,
       "following": 9,
       "highlights": [
+        "Domain-tuned retrieval for embedded docs: zephyrproject-docs-embeddings and ros2-docs-embeddings, each paired with a base-vs-tuned comparison Space so the gain is measurable, not asserted.",
+        "Docs assistants with citations \u2014 Zephyr RTOS and ROS 2 coding assistants running retrieval over the real documentation.",
+        "Edge AI documentation LoRAs across Qwen2.5-Coder 0.5B / 1.5B / 7B for on-device assistance, plus Arduino + Edge AI combined LoRAs for low-power coding help.",
+        "Wake-word tooling end to end: WakeForge generates TTS wake-word datasets, and hey-android-kws / hey-android-piper-kws are the trained classifiers, each with a live demo Space.",
         "Irish-dialect LoRA fine-tuning of Qwen2.5 (irish-abc-qwen2-5-lora) with a ZeroGPU Space.",
-        "Edge AI documentation LoRAs across Qwen2.5-Coder 0.5B / 1.5B / 7B for on-device assistance.",
-        "Arduino + Edge AI combined Qwen LoRAs targeting low-power, on-device coding help.",
-        "Public datasets for spark-plug classification and spark-plug anomaly detection (~3.2k rows combined)."
+        "Public datasets for spark-plug classification and anomaly detection (~3.2k rows combined)."
       ],
       "featured_models": [
         {
@@ -2170,7 +2521,34 @@
         {
           "id": "eoinedge/edgeai-qwen2.5coder-1.5b-lora-space"
         }
-      ]
+      ],
+      "org_contributions": {
+        "org": "edgeimpulse",
+        "url": "https://huggingface.co/edgeimpulse",
+        "note": "Published and maintain Edge Impulse's public Hugging Face presence.",
+        "items": [
+          {
+            "id": "edgeimpulse/hf-space-edge-impulse-mcp",
+            "kind": "space",
+            "note": "Edge Impulse MCP tools and agent chat"
+          },
+          {
+            "id": "edgeimpulse/wasm-demo-tester",
+            "kind": "space",
+            "note": "Run any Edge Impulse WebAssembly model live (audio or video)"
+          },
+          {
+            "id": "edgeimpulse/wakeforge",
+            "kind": "space",
+            "note": "Generate wake-word audio datasets with TTS and export them"
+          },
+          {
+            "id": "edgeimpulse/README",
+            "kind": "space",
+            "note": "Organization card"
+          }
+        ]
+      }
     },
     "thingiverse": {
       "user": "eoinedge",
@@ -2213,7 +2591,7 @@
       {
         "id": "eoinedge/edgeai-docs-qwen2.5-coder-0.5b-lora",
         "kind": "model",
-        "downloads": 188,
+        "downloads": 43,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2231,7 +2609,7 @@
       {
         "id": "eoinedge/EdgeAI-Docs-Qwen2.5-Coder-0.5B-Instruct",
         "kind": "model",
-        "downloads": 1,
+        "downloads": 7,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2249,7 +2627,7 @@
       {
         "id": "eoinedge/arduino-qwen0.5-lora",
         "kind": "model",
-        "downloads": 5,
+        "downloads": 0,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2258,7 +2636,7 @@
       {
         "id": "eoinedge/edgeai-qwen2.5coder-1.5b-lora",
         "kind": "model",
-        "downloads": 89,
+        "downloads": 2,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2285,7 +2663,7 @@
       {
         "id": "eoinedge/arduino-edgeai-qwen-combined-0.5b-lora",
         "kind": "model",
-        "downloads": 22,
+        "downloads": 3,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2294,18 +2672,81 @@
       {
         "id": "eoinedge/irish-abc-qwen2-5-lora",
         "kind": "model",
-        "downloads": 34,
+        "downloads": 4,
         "likes": 0,
         "task": "text-generation",
         "private": false,
         "url": "https://huggingface.co/eoinedge/irish-abc-qwen2-5-lora"
+      },
+      {
+        "id": "eoinedge/edgeimpulse-docs-rag-qwen",
+        "kind": "model",
+        "downloads": 0,
+        "likes": 0,
+        "task": "text-generation",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/edgeimpulse-docs-rag-qwen"
+      },
+      {
+        "id": "eoinedge/hey-android-kws",
+        "kind": "model",
+        "downloads": 11,
+        "likes": 0,
+        "task": "audio-classification",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/hey-android-kws"
+      },
+      {
+        "id": "eoinedge/hey-android-piper-kws",
+        "kind": "model",
+        "downloads": 30,
+        "likes": 0,
+        "task": "audio-classification",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/hey-android-piper-kws"
+      },
+      {
+        "id": "eoinedge/zephyrproject",
+        "kind": "model",
+        "downloads": 0,
+        "likes": 0,
+        "task": "sentence-similarity",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/zephyrproject"
+      },
+      {
+        "id": "eoinedge/ros2",
+        "kind": "model",
+        "downloads": 0,
+        "likes": 0,
+        "task": "sentence-similarity",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/ros2"
+      },
+      {
+        "id": "eoinedge/zephyrproject-docs-embeddings",
+        "kind": "model",
+        "downloads": 19,
+        "likes": 0,
+        "task": "sentence-similarity",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/zephyrproject-docs-embeddings"
+      },
+      {
+        "id": "eoinedge/ros2-docs-embeddings",
+        "kind": "model",
+        "downloads": 13,
+        "likes": 0,
+        "task": "sentence-similarity",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/ros2-docs-embeddings"
       }
     ],
     "datasets": [
       {
         "id": "eoinedge/spark-plug-classification",
         "kind": "dataset",
-        "downloads": 64,
+        "downloads": 485,
         "likes": 0,
         "task": "",
         "private": false,
@@ -2314,25 +2755,142 @@
       {
         "id": "eoinedge/spark-plug-anomaly-detection",
         "kind": "dataset",
-        "downloads": 80,
+        "downloads": 629,
         "likes": 1,
         "task": "",
         "private": false,
         "url": "https://huggingface.co/datasets/eoinedge/spark-plug-anomaly-detection"
+      },
+      {
+        "id": "eoinedge/hey-android",
+        "kind": "dataset",
+        "downloads": 28,
+        "likes": 0,
+        "task": "",
+        "private": false,
+        "url": "https://huggingface.co/datasets/eoinedge/hey-android"
+      },
+      {
+        "id": "eoinedge/hf_hey_android",
+        "kind": "dataset",
+        "downloads": 241,
+        "likes": 0,
+        "task": "",
+        "private": false,
+        "url": "https://huggingface.co/datasets/eoinedge/hf_hey_android"
+      },
+      {
+        "id": "eoinedge/wakeforge-hey-android-piper-tts",
+        "kind": "dataset",
+        "downloads": 433,
+        "likes": 1,
+        "task": "",
+        "private": false,
+        "url": "https://huggingface.co/datasets/eoinedge/wakeforge-hey-android-piper-tts"
       }
     ],
     "spaces": [
       {
-        "id": "eoinedge/edgeimpulse",
+        "id": "eoinedge/hf-space-edge-impulse-mcp",
         "kind": "space",
         "downloads": 0,
         "likes": 0,
-        "task": "docker",
+        "task": "gradio",
         "private": false,
-        "url": "https://huggingface.co/spaces/eoinedge/edgeimpulse"
+        "url": "https://huggingface.co/spaces/eoinedge/hf-space-edge-impulse-mcp"
+      },
+      {
+        "id": "eoinedge/hey-android-kws-demo",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/hey-android-kws-demo"
+      },
+      {
+        "id": "eoinedge/hey-android-piper-kws-demo",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/hey-android-piper-kws-demo"
+      },
+      {
+        "id": "eoinedge/hey-android-google-tts-kws-demo",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/hey-android-google-tts-kws-demo"
+      },
+      {
+        "id": "eoinedge/hey-android-piper-tts-kws-demo",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/hey-android-piper-tts-kws-demo"
+      },
+      {
+        "id": "eoinedge/wakeforge",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/wakeforge"
+      },
+      {
+        "id": "eoinedge/angleforge",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/angleforge"
+      },
+      {
+        "id": "eoinedge/zephyrproject-rag",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/zephyrproject-rag"
+      },
+      {
+        "id": "eoinedge/ros2",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/ros2"
+      },
+      {
+        "id": "eoinedge/zephyrproject-embeddings-compare",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/zephyrproject-embeddings-compare"
+      },
+      {
+        "id": "eoinedge/ros2-embeddings-compare",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/ros2-embeddings-compare"
       }
     ],
-    "total_downloads": 483,
-    "total_likes": 1
+    "total_downloads": 1948,
+    "total_likes": 2
   }
 }

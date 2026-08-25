@@ -69,10 +69,30 @@ a{color:var(--accent)}
 .tabs a:hover{color:var(--fg)}
 .tabs a.on{background:var(--accent);color:#fff}
 .tabs a.on:hover{color:#fff}
-.blog-tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:16px 0 4px}
-.blog-tile{display:flex;flex-direction:column;gap:5px;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--fg);transition:border-color .15s}
-.blog-tile:hover{border-color:var(--accent)}
-.blog-tile-title{font-weight:600;font-size:.95rem;line-height:1.3;color:var(--fg)}
-.blog-tile-meta{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
-.blog-tile-summary{font-size:.83rem;color:var(--muted);line-height:1.4;margin-top:2px}
-.blog-tile-more{justify-content:center;align-items:center;font-weight:600;color:var(--accent);font-size:.92rem;border-style:dashed}
+.recs{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:14px;margin:4px 0}
+.rec{margin:0;background:var(--bg);border:1px solid var(--border);border-left:3px solid var(--brand,#0a66c2);border-radius:10px;padding:16px 18px 14px;display:flex;flex-direction:column;gap:10px}
+.rec blockquote{margin:0;font-size:.94rem;line-height:1.6}
+.rec blockquote p{margin:0 0 8px}
+.rec blockquote p:last-child{margin-bottom:0}
+.rec figcaption{border-top:1px solid var(--border);padding-top:10px;margin-top:auto}
+.rec-who{font-weight:600;font-size:.92rem}
+.rec-who a{text-decoration:none}
+.rec-who a:hover{text-decoration:underline}
+.rec-role{color:var(--muted);font-size:.82rem;line-height:1.35;margin-top:1px}
+.rec-meta{color:var(--muted);font-size:.76rem;text-transform:uppercase;letter-spacing:.04em;margin-top:6px}
+.kudos{list-style:none;padding:0;margin:6px 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
+.kudo{margin:0;background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:12px 14px}
+.kudo-body{font-size:.9rem;line-height:1.5}
+.kudo-quote{font-style:italic}
+.kudo-who{font-weight:600;font-size:.85rem;margin-top:8px}
+.kudo-role{font-weight:400;color:var(--muted)}
+.kudo-meta{color:var(--muted);font-size:.74rem;text-transform:uppercase;letter-spacing:.04em;margin-top:3px}
+.pub-note{color:var(--muted);font-size:.85rem;margin-top:2px}
+.post-link{margin-left:8px;white-space:nowrap}
+.talks{list-style:none;padding:0;margin:6px 0 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:10px}
+.talk{margin:0;background:var(--bg);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:10px;padding:11px 14px}
+.talk-title{font-weight:600;font-size:.92rem;line-height:1.35}
+.talk-title a{text-decoration:none}
+.talk-title a:hover{text-decoration:underline}
+.talk-venue{font-size:.85rem;margin-top:3px}
+.talk-meta{color:var(--muted);font-size:.74rem;text-transform:uppercase;letter-spacing:.04em;margin-top:5px}

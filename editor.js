@@ -63,6 +63,38 @@
         ["url", "URL"],
       ],
     },
+    recommendations: {
+      kind: "object",
+      fields: [
+        ["name", "Recommender name"],
+        ["role", "Their role / headline"],
+        ["relationship", "How you worked together"],
+        ["date", "Date (e.g. August 2018)"],
+        ["url", "Their LinkedIn URL"],
+        ["text", "Recommendation (blank line = new paragraph)", "textarea"],
+      ],
+    },
+    kudos: {
+      kind: "object",
+      fields: [
+        ["name", "Who"],
+        ["role", "Their team / company"],
+        ["quote", "Verbatim quote (rendered in quotation marks)", "textarea"],
+        ["note", "Or a paraphrase (rendered without quotation marks)", "textarea"],
+        ["context", "What it was for"],
+        ["period", "Period (e.g. 2025 – 2026)"],
+      ],
+    },
+    publications: {
+      kind: "object",
+      fields: [
+        ["title", "Title"],
+        ["venue", "Venue / publisher"],
+        ["year", "Year"],
+        ["url", "URL"],
+        ["note", "Short note", "textarea"],
+      ],
+    },
     volunteering: {
       kind: "object",
       fields: [["role", "Role"], ["org", "Organisation"], ["start", "Start"], ["end", "End"], ["notes", "Notes", "textarea"]],
