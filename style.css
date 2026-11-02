@@ -10,6 +10,7 @@ h1{font-size:2rem;margin:0}
 .tag{color:var(--muted)}
 .links a{margin-right:14px;color:var(--accent);text-decoration:none}
 .links a:hover{text-decoration:underline}
+.badges{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0}.badges a{display:inline-flex}.badges img{height:20px}
 section{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px 22px;margin:18px 0;box-shadow:0 1px 0 rgba(0,0,0,.03)}
 section h2{margin:0 0 12px;font-size:1.2rem;display:flex;align-items:center;gap:8px}
 section h2 .section-link{color:var(--muted);text-decoration:none;font-size:.95rem;font-weight:400;margin-left:auto}

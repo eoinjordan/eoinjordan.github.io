@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:20:29.306489+00:00",
+  "generated_at": "2026-11-02T02:26:11.961579+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-11-07T02:20:27.800931+00:00",
-  "period_end": "2026-11-02T02:20:27.800931+00:00",
+  "period_start": "2025-11-07T02:26:11.192822+00:00",
+  "period_end": "2026-11-02T02:26:11.192822+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -2910,6 +2910,59 @@
         "year": "",
         "url": "https://www.ibm.com/blogs/internet-of-things/",
         "note": ""
+      }
+    ],
+    "badges": [
+      {
+        "label": "Zephyr Project",
+        "message": "contributor",
+        "color": "7929D2",
+        "url": "https://github.com/zephyrproject-rtos/zephyr/pull/101581",
+        "title": "Edge Impulse module merged into Zephyr"
+      },
+      {
+        "label": "PyTorch ExecuTorch",
+        "message": "contributor",
+        "color": "EE4C2C",
+        "logo": "pytorch",
+        "url": "https://github.com/meta-pytorch/executorch-examples/pull/266",
+        "title": "Merged in executorch-examples"
+      },
+      {
+        "label": "IEEE IECON 2024",
+        "message": "best paper presentation",
+        "color": "00629B",
+        "logo": "ieee",
+        "url": "https://www.nist.gov/news-events/news/2024/12/nist-researchers-and-collaborators-receive-best-paper-presentation-award",
+        "title": "Best Paper Presentation Award, IEEE IECON 2024"
+      },
+      {
+        "label": "FOSDEM 2022",
+        "message": "speaker",
+        "color": "AB1A6C",
+        "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/",
+        "title": "Car Whispering: the AI Mechanic"
+      },
+      {
+        "label": "W3C",
+        "message": "member participant",
+        "color": "005A9C",
+        "url": "https://www.w3.org/",
+        "title": "World Wide Web Consortium"
+      },
+      {
+        "label": "Elektor",
+        "message": "author",
+        "color": "2E8B57",
+        "url": "https://www.elektormagazine.com/magazine/elektor-469",
+        "title": "Arduino Opta PLC: Dual-System Industrial Hero"
+      },
+      {
+        "label": "MIT App Inventor",
+        "message": "extension author",
+        "color": "246747",
+        "url": "https://github.com/eoinjordan/appinventor-executorch-extension",
+        "title": "ExecuTorch for MIT App Inventor"
       }
     ],
     "stats": {
