@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:26:11.961579+00:00",
+  "generated_at": "2026-11-02T02:27:53.362275+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-11-07T02:26:11.192822+00:00",
-  "period_end": "2026-11-02T02:26:11.192822+00:00",
+  "period_start": "2025-11-07T02:27:52.537301+00:00",
+  "period_end": "2026-11-02T02:27:52.537301+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -2956,13 +2956,6 @@
         "color": "2E8B57",
         "url": "https://www.elektormagazine.com/magazine/elektor-469",
         "title": "Arduino Opta PLC: Dual-System Industrial Hero"
-      },
-      {
-        "label": "MIT App Inventor",
-        "message": "extension author",
-        "color": "246747",
-        "url": "https://github.com/eoinjordan/appinventor-executorch-extension",
-        "title": "ExecuTorch for MIT App Inventor"
       }
     ],
     "stats": {
