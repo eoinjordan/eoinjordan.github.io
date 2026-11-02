@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-08-25T14:27:47.919078+00:00",
+  "generated_at": "2026-11-02T02:20:29.306489+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-08-30T14:27:46.946343+00:00",
-  "period_end": "2026-08-25T14:27:46.946343+00:00",
+  "period_start": "2025-11-07T02:20:27.800931+00:00",
+  "period_end": "2026-11-02T02:20:27.800931+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
-    "bio": "\r\n\r\nI am pursuing a PhD in Interoperability for IoT and funded for the Infinitech project, working with semantic technologies for the financial sector under the",
-    "followers": 15,
-    "public_repos": 45,
+    "bio": "Work: Edge Impulse.\r\nContributor: Zephyr \r\nResearch:\r\npursuing a PhD in Interoperability for Edge AI",
+    "followers": 21,
+    "public_repos": 73,
     "avatar_url": "https://avatars.githubusercontent.com/u/11853924?v=4",
     "repos": [
+      {
+        "name": "eoinjordan",
+        "full_name": "eoinjordan/eoinjordan",
+        "description": "Profile README",
+        "stars": 0,
+        "forks": 0,
+        "language": null,
+        "pushed_at": "2026-11-02T02:16:55+00:00",
+        "url": "https://github.com/eoinjordan/eoinjordan"
+      },
+      {
+        "name": "appinventor-executorch-extension",
+        "full_name": "eoinjordan/appinventor-executorch-extension",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-11-02T01:41:28+00:00",
+        "url": "https://github.com/eoinjordan/appinventor-executorch-extension"
+      },
+      {
+        "name": "MongoDBSimCity",
+        "full_name": "eoinjordan/MongoDBSimCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-29T10:25:42+00:00",
+        "url": "https://github.com/eoinjordan/MongoDBSimCity"
+      },
+      {
+        "name": "HexagonNPUSimCity",
+        "full_name": "eoinjordan/HexagonNPUSimCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-29T04:45:14+00:00",
+        "url": "https://github.com/eoinjordan/HexagonNPUSimCity"
+      },
+      {
+        "name": "SiliconCity",
+        "full_name": "eoinjordan/SiliconCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-29T02:45:05+00:00",
+        "url": "https://github.com/eoinjordan/SiliconCity"
+      },
+      {
+        "name": "mindstorms-robot-creator",
+        "full_name": "eoinjordan/mindstorms-robot-creator",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-10-23T18:41:28+00:00",
+        "url": "https://github.com/eoinjordan/mindstorms-robot-creator"
+      },
+      {
+        "name": "what-should-a-local-agent-remember",
+        "full_name": "eoinjordan/what-should-a-local-agent-remember",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-10-20T12:48:08+00:00",
+        "url": "https://github.com/eoinjordan/what-should-a-local-agent-remember"
+      },
       {
         "name": "trowser",
         "full_name": "eoinjordan/trowser",
@@ -18,8 +88,178 @@
         "stars": 0,
         "forks": 0,
         "language": "TypeScript",
-        "pushed_at": "2026-08-24T15:36:46+00:00",
+        "pushed_at": "2026-10-19T15:35:33+00:00",
         "url": "https://github.com/eoinjordan/trowser"
+      },
+      {
+        "name": "executorch-zephyr-m5stack-atom-echo",
+        "full_name": "eoinjordan/executorch-zephyr-m5stack-atom-echo",
+        "description": "\"Hey Zephyr\" wake word on the M5Stack ATOM Echo with Zephyr + ExecuTorch, bridged to Home Assistant",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2026-10-12T00:15:06+00:00",
+        "url": "https://github.com/eoinjordan/executorch-zephyr-m5stack-atom-echo"
+      },
+      {
+        "name": "executorch-zephyr-xiao-esp32s3",
+        "full_name": "eoinjordan/executorch-zephyr-xiao-esp32s3",
+        "description": "Train and run an ExecuTorch model on the Seeed XIAO ESP32S3 Sense with Zephyr's ExecuTorch module (Xtensa, portable kernels, selective build, OV2640 camera demo)",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2026-10-11T22:51:39+00:00",
+        "url": "https://github.com/eoinjordan/executorch-zephyr-xiao-esp32s3"
+      },
+      {
+        "name": "executorch-zephyr-arducam-pico4ML-BLE",
+        "full_name": "eoinjordan/executorch-zephyr-arducam-pico4ML-BLE",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2026-10-11T22:51:09+00:00",
+        "url": "https://github.com/eoinjordan/executorch-zephyr-arducam-pico4ML-BLE"
+      },
+      {
+        "name": "executorch-zephyr-arduino-uno-q",
+        "full_name": "eoinjordan/executorch-zephyr-arduino-uno-q",
+        "description": "Zephyr ExecuTorch end to end training to deploy sample on UnoQ",
+        "stars": 0,
+        "forks": 0,
+        "language": "C",
+        "pushed_at": "2026-10-11T22:51:04+00:00",
+        "url": "https://github.com/eoinjordan/executorch-zephyr-arduino-uno-q"
+      },
+      {
+        "name": "sam3-ai-labeling-block",
+        "full_name": "eoinjordan/sam3-ai-labeling-block",
+        "description": "Edge Impulse AI labelling block: bounding boxes from text prompts with SAM 3, via a Hugging Face Space",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-10-09T14:35:41+00:00",
+        "url": "https://github.com/eoinjordan/sam3-ai-labeling-block"
+      },
+      {
+        "name": "GettingToKnowJev",
+        "full_name": "eoinjordan/GettingToKnowJev",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-07T09:15:05+00:00",
+        "url": "https://github.com/eoinjordan/GettingToKnowJev"
+      },
+      {
+        "name": "GBA-FPGA",
+        "full_name": "eoinjordan/GBA-FPGA",
+        "description": "Tang FPGA retro handheld integration for GBA, GB/GBC, and SNES workflows",
+        "stars": 0,
+        "forks": 0,
+        "language": "SystemVerilog",
+        "pushed_at": "2026-10-01T15:57:11+00:00",
+        "url": "https://github.com/eoinjordan/GBA-FPGA"
+      },
+      {
+        "name": "GBA-Studio",
+        "full_name": "eoinjordan/GBA-Studio",
+        "description": null,
+        "stars": 12,
+        "forks": 1,
+        "language": "TypeScript",
+        "pushed_at": "2026-10-01T15:54:35+00:00",
+        "url": "https://github.com/eoinjordan/GBA-Studio"
+      },
+      {
+        "name": "gba-engine",
+        "full_name": "eoinjordan/gba-engine",
+        "description": "Portable C runtime for Game Boy Advance homebrew (devkitARM): HAL, Mode 0 background rendering, scene/actor management, and a minimal scripted-behaviour VM. Extracted from GBA Studio for standalone reuse.",
+        "stars": 3,
+        "forks": 1,
+        "language": "C",
+        "pushed_at": "2026-10-01T15:20:18+00:00",
+        "url": "https://github.com/eoinjordan/gba-engine"
+      },
+      {
+        "name": "fpga",
+        "full_name": "eoinjordan/fpga",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Verilog",
+        "pushed_at": "2026-09-30T20:27:49+00:00",
+        "url": "https://github.com/eoinjordan/fpga"
+      },
+      {
+        "name": "NetronSimCity",
+        "full_name": "eoinjordan/NetronSimCity",
+        "description": "https://netron.app/",
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-09-22T11:56:06+00:00",
+        "url": "https://github.com/eoinjordan/NetronSimCity"
+      },
+      {
+        "name": "langchain",
+        "full_name": "eoinjordan/langchain",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-09-22T11:38:43+00:00",
+        "url": "https://github.com/eoinjordan/langchain"
+      },
+      {
+        "name": "langgraph",
+        "full_name": "eoinjordan/langgraph",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "pushed_at": "2026-09-22T11:38:43+00:00",
+        "url": "https://github.com/eoinjordan/langgraph"
+      },
+      {
+        "name": "CUDASimCity",
+        "full_name": "eoinjordan/CUDASimCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-09-19T21:54:13+00:00",
+        "url": "https://github.com/eoinjordan/CUDASimCity"
+      },
+      {
+        "name": "AWSSimCity",
+        "full_name": "eoinjordan/AWSSimCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-09-19T17:19:24+00:00",
+        "url": "https://github.com/eoinjordan/AWSSimCity"
+      },
+      {
+        "name": "GstreamerSimCity",
+        "full_name": "eoinjordan/GstreamerSimCity",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-09-19T13:08:55+00:00",
+        "url": "https://github.com/eoinjordan/GstreamerSimCity"
+      },
+      {
+        "name": "eoinjordan.github.io",
+        "full_name": "eoinjordan/eoinjordan.github.io",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "pushed_at": "2026-08-25T14:28:43+00:00",
+        "url": "https://github.com/eoinjordan/eoinjordan.github.io"
       },
       {
         "name": "socialstories",
@@ -32,31 +272,11 @@
         "url": "https://github.com/eoinjordan/socialstories"
       },
       {
-        "name": "GBA-Studio",
-        "full_name": "eoinjordan/GBA-Studio",
-        "description": null,
-        "stars": 7,
-        "forks": 1,
-        "language": "TypeScript",
-        "pushed_at": "2026-07-20T10:47:44+00:00",
-        "url": "https://github.com/eoinjordan/GBA-Studio"
-      },
-      {
-        "name": "gba-engine",
-        "full_name": "eoinjordan/gba-engine",
-        "description": "Portable C runtime for Game Boy Advance homebrew (devkitARM): HAL, Mode 0 background rendering, scene/actor management, and a minimal scripted-behaviour VM. Extracted from GBA Studio for standalone reuse.",
-        "stars": 1,
-        "forks": 0,
-        "language": "C",
-        "pushed_at": "2026-07-20T02:07:52+00:00",
-        "url": "https://github.com/eoinjordan/gba-engine"
-      },
-      {
         "name": "snes-studio",
         "full_name": "eoinjordan/snes-studio",
         "description": "Kid-friendly, human-in-the-loop SNES homebrew game studio. Ships Poachermon (Gotta Save 'Em All!) as the launch template. Visual editor, native asset pipeline, EmulatorJS preview. Free to deploy on Vercel/Netlify.",
-        "stars": 2,
-        "forks": 0,
+        "stars": 6,
+        "forks": 1,
         "language": "Python",
         "pushed_at": "2026-07-19T20:08:57+00:00",
         "url": "https://github.com/eoinjordan/snes-studio"
@@ -76,10 +296,20 @@
         "full_name": "eoinjordan/unoq-braccio",
         "description": null,
         "stars": 3,
-        "forks": 1,
+        "forks": 2,
         "language": "Python",
         "pushed_at": "2026-07-09T10:34:07+00:00",
         "url": "https://github.com/eoinjordan/unoq-braccio"
+      },
+      {
+        "name": "arduino-unoq-home-assistant",
+        "full_name": "eoinjordan/arduino-unoq-home-assistant",
+        "description": null,
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "pushed_at": "2026-07-03T20:46:48+00:00",
+        "url": "https://github.com/eoinjordan/arduino-unoq-home-assistant"
       },
       {
         "name": "home-assistant",
@@ -92,14 +322,14 @@
         "url": "https://github.com/eoinjordan/home-assistant"
       },
       {
-        "name": "mindstorms-robot-creator",
-        "full_name": "eoinjordan/mindstorms-robot-creator",
+        "name": "xr-synthetic-data-scene",
+        "full_name": "eoinjordan/xr-synthetic-data-scene",
         "description": null,
         "stars": 0,
         "forks": 0,
-        "language": "JavaScript",
-        "pushed_at": "2026-06-15T09:23:39+00:00",
-        "url": "https://github.com/eoinjordan/mindstorms-robot-creator"
+        "language": "C#",
+        "pushed_at": "2026-07-03T13:05:32+00:00",
+        "url": "https://github.com/eoinjordan/xr-synthetic-data-scene"
       },
       {
         "name": "mindstorms-robot-creator-android",
@@ -115,8 +345,8 @@
         "name": "gb-studio-agent",
         "full_name": "eoinjordan/gb-studio-agent",
         "description": "Claude or other MCP Agentic integration for GB Studio Automated game asset creation and project management REST API endpoints for scenes, actors, assets, and validation End-to-end workflow with your MCP server",
-        "stars": 16,
-        "forks": 4,
+        "stars": 25,
+        "forks": 5,
         "language": "TypeScript",
         "pushed_at": "2026-06-09T17:29:38+00:00",
         "url": "https://github.com/eoinjordan/gb-studio-agent"
@@ -150,16 +380,6 @@
         "language": "C++",
         "pushed_at": "2026-06-07T14:04:31+00:00",
         "url": "https://github.com/eoinjordan/wedo2-hub-firmware"
-      },
-      {
-        "name": "eoinjordan.github.io",
-        "full_name": "eoinjordan/eoinjordan.github.io",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "pushed_at": "2026-06-07T13:51:14+00:00",
-        "url": "https://github.com/eoinjordan/eoinjordan.github.io"
       },
       {
         "name": "sports-smalltalk-copilot",
@@ -255,7 +475,7 @@
         "name": "doom-godmode",
         "full_name": "eoinjordan/doom-godmode",
         "description": null,
-        "stars": 0,
+        "stars": 1,
         "forks": 0,
         "language": "JavaScript",
         "pushed_at": "2026-04-13T09:59:28+00:00",
@@ -284,364 +504,22 @@
     ],
     "org_repos": {},
     "recent_commits": [],
-    "total_stars": 43,
+    "total_stars": 64,
     "languages": {
-      "TypeScript": 8,
-      "C": 1,
-      "Python": 5,
+      "Python": 10,
+      "TypeScript": 16,
       "JavaScript": 6,
+      "C": 5,
+      "SystemVerilog": 1,
+      "Verilog": 1,
+      "HTML": 1,
+      "Shell": 2,
+      "C#": 1,
       "Kotlin": 2,
       "C++": 2,
-      "HTML": 1,
-      "Shell": 1,
       "Jupyter Notebook": 2
     },
     "contributions": [
-      {
-        "date": "2025-08-30",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-08-31",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-01",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-02",
-        "level": 1,
-        "count": 7
-      },
-      {
-        "date": "2025-09-03",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-09-04",
-        "level": 2,
-        "count": 13
-      },
-      {
-        "date": "2025-09-05",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-06",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-07",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-08",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-09",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-10",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-09-11",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-12",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-13",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-14",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-15",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-16",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-17",
-        "level": 1,
-        "count": 2
-      },
-      {
-        "date": "2025-09-18",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-19",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-20",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-21",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-22",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-23",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-24",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-25",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-26",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-27",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-28",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-29",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-09-30",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-10-01",
-        "level": 1,
-        "count": 3
-      },
-      {
-        "date": "2025-10-02",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-10-03",
-        "level": 2,
-        "count": 13
-      },
-      {
-        "date": "2025-10-04",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-05",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-10-06",
-        "level": 1,
-        "count": 5
-      },
-      {
-        "date": "2025-10-07",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-08",
-        "level": 1,
-        "count": 3
-      },
-      {
-        "date": "2025-10-09",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-10",
-        "level": 2,
-        "count": 9
-      },
-      {
-        "date": "2025-10-11",
-        "level": 2,
-        "count": 14
-      },
-      {
-        "date": "2025-10-12",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-13",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-14",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-15",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-10-16",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-17",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-10-18",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-19",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-20",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-21",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-22",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-23",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-24",
-        "level": 1,
-        "count": 4
-      },
-      {
-        "date": "2025-10-25",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-26",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-27",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-10-28",
-        "level": 4,
-        "count": 26
-      },
-      {
-        "date": "2025-10-29",
-        "level": 4,
-        "count": 40
-      },
-      {
-        "date": "2025-10-30",
-        "level": 4,
-        "count": 28
-      },
-      {
-        "date": "2025-10-31",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-01",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-02",
-        "level": 0,
-        "count": 0
-      },
-      {
-        "date": "2025-11-03",
-        "level": 1,
-        "count": 1
-      },
-      {
-        "date": "2025-11-04",
-        "level": 2,
-        "count": 15
-      },
-      {
-        "date": "2025-11-05",
-        "level": 2,
-        "count": 15
-      },
-      {
-        "date": "2025-11-06",
-        "level": 1,
-        "count": 6
-      },
       {
         "date": "2025-11-07",
         "level": 0,
@@ -690,7 +568,7 @@
       {
         "date": "2025-11-16",
         "level": 1,
-        "count": 2
+        "count": 1
       },
       {
         "date": "2025-11-17",
@@ -744,7 +622,7 @@
       },
       {
         "date": "2025-11-27",
-        "level": 2,
+        "level": 1,
         "count": 9
       },
       {
@@ -765,7 +643,7 @@
       {
         "date": "2025-12-01",
         "level": 1,
-        "count": 2
+        "count": 1
       },
       {
         "date": "2025-12-02",
@@ -784,8 +662,8 @@
       },
       {
         "date": "2025-12-05",
-        "level": 2,
-        "count": 15
+        "level": 1,
+        "count": 14
       },
       {
         "date": "2025-12-06",
@@ -799,12 +677,12 @@
       },
       {
         "date": "2025-12-08",
-        "level": 2,
+        "level": 1,
         "count": 9
       },
       {
         "date": "2025-12-09",
-        "level": 2,
+        "level": 1,
         "count": 10
       },
       {
@@ -905,7 +783,7 @@
       {
         "date": "2025-12-29",
         "level": 1,
-        "count": 2
+        "count": 1
       },
       {
         "date": "2025-12-30",
@@ -1024,13 +902,13 @@
       },
       {
         "date": "2026-01-22",
-        "level": 2,
+        "level": 1,
         "count": 9
       },
       {
         "date": "2026-01-23",
-        "level": 4,
-        "count": 40
+        "level": 3,
+        "count": 39
       },
       {
         "date": "2026-01-24",
@@ -1040,12 +918,12 @@
       {
         "date": "2026-01-25",
         "level": 1,
-        "count": 8
+        "count": 7
       },
       {
         "date": "2026-01-26",
-        "level": 2,
-        "count": 11
+        "level": 1,
+        "count": 10
       },
       {
         "date": "2026-01-27",
@@ -1060,7 +938,7 @@
       {
         "date": "2026-01-29",
         "level": 1,
-        "count": 5
+        "count": 4
       },
       {
         "date": "2026-01-30",
@@ -1069,8 +947,8 @@
       },
       {
         "date": "2026-01-31",
-        "level": 1,
-        "count": 7
+        "level": 0,
+        "count": 0
       },
       {
         "date": "2026-02-01",
@@ -1079,8 +957,8 @@
       },
       {
         "date": "2026-02-02",
-        "level": 1,
-        "count": 1
+        "level": 0,
+        "count": 0
       },
       {
         "date": "2026-02-03",
@@ -1094,13 +972,13 @@
       },
       {
         "date": "2026-02-05",
-        "level": 2,
+        "level": 1,
         "count": 9
       },
       {
         "date": "2026-02-06",
-        "level": 2,
-        "count": 15
+        "level": 1,
+        "count": 14
       },
       {
         "date": "2026-02-07",
@@ -1119,12 +997,12 @@
       },
       {
         "date": "2026-02-10",
-        "level": 2,
+        "level": 1,
         "count": 14
       },
       {
         "date": "2026-02-11",
-        "level": 2,
+        "level": 1,
         "count": 10
       },
       {
@@ -1134,7 +1012,7 @@
       },
       {
         "date": "2026-02-13",
-        "level": 4,
+        "level": 2,
         "count": 25
       },
       {
@@ -1185,7 +1063,7 @@
       {
         "date": "2026-02-23",
         "level": 1,
-        "count": 3
+        "count": 2
       },
       {
         "date": "2026-02-24",
@@ -1199,13 +1077,13 @@
       },
       {
         "date": "2026-02-26",
-        "level": 2,
+        "level": 1,
         "count": 15
       },
       {
         "date": "2026-02-27",
-        "level": 4,
-        "count": 36
+        "level": 3,
+        "count": 35
       },
       {
         "date": "2026-02-28",
@@ -1229,7 +1107,7 @@
       },
       {
         "date": "2026-03-04",
-        "level": 2,
+        "level": 1,
         "count": 9
       },
       {
@@ -1335,7 +1213,7 @@
       {
         "date": "2026-03-25",
         "level": 1,
-        "count": 8
+        "count": 5
       },
       {
         "date": "2026-03-26",
@@ -1419,8 +1297,8 @@
       },
       {
         "date": "2026-04-11",
-        "level": 1,
-        "count": 1
+        "level": 0,
+        "count": 0
       },
       {
         "date": "2026-04-12",
@@ -1575,7 +1453,7 @@
       {
         "date": "2026-05-12",
         "level": 1,
-        "count": 6
+        "count": 8
       },
       {
         "date": "2026-05-13",
@@ -1584,7 +1462,7 @@
       },
       {
         "date": "2026-05-14",
-        "level": 2,
+        "level": 1,
         "count": 16
       },
       {
@@ -1624,7 +1502,7 @@
       },
       {
         "date": "2026-05-22",
-        "level": 4,
+        "level": 2,
         "count": 32
       },
       {
@@ -1639,12 +1517,12 @@
       },
       {
         "date": "2026-05-25",
-        "level": 3,
+        "level": 2,
         "count": 19
       },
       {
         "date": "2026-05-26",
-        "level": 3,
+        "level": 2,
         "count": 23
       },
       {
@@ -1654,13 +1532,13 @@
       },
       {
         "date": "2026-05-28",
-        "level": 4,
+        "level": 2,
         "count": 25
       },
       {
         "date": "2026-05-29",
-        "level": 2,
-        "count": 11
+        "level": 1,
+        "count": 4
       },
       {
         "date": "2026-05-30",
@@ -1669,7 +1547,7 @@
       },
       {
         "date": "2026-05-31",
-        "level": 4,
+        "level": 2,
         "count": 28
       },
       {
@@ -1679,7 +1557,7 @@
       },
       {
         "date": "2026-06-02",
-        "level": 2,
+        "level": 1,
         "count": 15
       },
       {
@@ -1695,7 +1573,7 @@
       {
         "date": "2026-06-05",
         "level": 1,
-        "count": 3
+        "count": 2
       },
       {
         "date": "2026-06-06",
@@ -1704,7 +1582,7 @@
       },
       {
         "date": "2026-06-07",
-        "level": 4,
+        "level": 2,
         "count": 28
       },
       {
@@ -1719,8 +1597,8 @@
       },
       {
         "date": "2026-06-10",
-        "level": 2,
-        "count": 11
+        "level": 1,
+        "count": 9
       },
       {
         "date": "2026-06-11",
@@ -1760,7 +1638,7 @@
       {
         "date": "2026-06-18",
         "level": 1,
-        "count": 2
+        "count": 1
       },
       {
         "date": "2026-06-19",
@@ -1834,7 +1712,7 @@
       },
       {
         "date": "2026-07-03",
-        "level": 2,
+        "level": 1,
         "count": 14
       },
       {
@@ -1864,7 +1742,7 @@
       },
       {
         "date": "2026-07-09",
-        "level": 2,
+        "level": 1,
         "count": 12
       },
       {
@@ -1914,17 +1792,17 @@
       },
       {
         "date": "2026-07-19",
-        "level": 2,
+        "level": 1,
         "count": 11
       },
       {
         "date": "2026-07-20",
-        "level": 4,
+        "level": 2,
         "count": 25
       },
       {
         "date": "2026-07-21",
-        "level": 2,
+        "level": 1,
         "count": 13
       },
       {
@@ -1969,12 +1847,12 @@
       },
       {
         "date": "2026-07-30",
-        "level": 3,
+        "level": 2,
         "count": 22
       },
       {
         "date": "2026-07-31",
-        "level": 2,
+        "level": 1,
         "count": 15
       },
       {
@@ -1989,7 +1867,7 @@
       },
       {
         "date": "2026-08-03",
-        "level": 2,
+        "level": 1,
         "count": 10
       },
       {
@@ -2024,7 +1902,7 @@
       },
       {
         "date": "2026-08-10",
-        "level": 2,
+        "level": 1,
         "count": 15
       },
       {
@@ -2101,23 +1979,380 @@
         "date": "2026-08-25",
         "level": 1,
         "count": 1
+      },
+      {
+        "date": "2026-08-26",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-08-27",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-08-28",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-08-29",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-08-30",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-08-31",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-01",
+        "level": 1,
+        "count": 6
+      },
+      {
+        "date": "2026-09-02",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-03",
+        "level": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-09-04",
+        "level": 1,
+        "count": 15
+      },
+      {
+        "date": "2026-09-05",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-09-06",
+        "level": 1,
+        "count": 8
+      },
+      {
+        "date": "2026-09-07",
+        "level": 1,
+        "count": 10
+      },
+      {
+        "date": "2026-09-08",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-09-09",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-09-10",
+        "level": 1,
+        "count": 5
+      },
+      {
+        "date": "2026-09-11",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-09-12",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-13",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-14",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-09-15",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-16",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-09-17",
+        "level": 2,
+        "count": 17
+      },
+      {
+        "date": "2026-09-18",
+        "level": 2,
+        "count": 17
+      },
+      {
+        "date": "2026-09-19",
+        "level": 1,
+        "count": 11
+      },
+      {
+        "date": "2026-09-20",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-21",
+        "level": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-09-22",
+        "level": 1,
+        "count": 14
+      },
+      {
+        "date": "2026-09-23",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-24",
+        "level": 1,
+        "count": 10
+      },
+      {
+        "date": "2026-09-25",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-26",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-27",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-28",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-09-29",
+        "level": 1,
+        "count": 4
+      },
+      {
+        "date": "2026-09-30",
+        "level": 1,
+        "count": 5
+      },
+      {
+        "date": "2026-10-01",
+        "level": 1,
+        "count": 10
+      },
+      {
+        "date": "2026-10-02",
+        "level": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-10-03",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-10-04",
+        "level": 3,
+        "count": 46
+      },
+      {
+        "date": "2026-10-05",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-06",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-07",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-10-08",
+        "level": 1,
+        "count": 5
+      },
+      {
+        "date": "2026-10-09",
+        "level": 1,
+        "count": 11
+      },
+      {
+        "date": "2026-10-10",
+        "level": 1,
+        "count": 12
+      },
+      {
+        "date": "2026-10-11",
+        "level": 4,
+        "count": 67
+      },
+      {
+        "date": "2026-10-12",
+        "level": 1,
+        "count": 3
+      },
+      {
+        "date": "2026-10-13",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-14",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-10-15",
+        "level": 1,
+        "count": 9
+      },
+      {
+        "date": "2026-10-16",
+        "level": 1,
+        "count": 8
+      },
+      {
+        "date": "2026-10-17",
+        "level": 2,
+        "count": 21
+      },
+      {
+        "date": "2026-10-18",
+        "level": 2,
+        "count": 18
+      },
+      {
+        "date": "2026-10-19",
+        "level": 2,
+        "count": 23
+      },
+      {
+        "date": "2026-10-20",
+        "level": 3,
+        "count": 45
+      },
+      {
+        "date": "2026-10-21",
+        "level": 1,
+        "count": 5
+      },
+      {
+        "date": "2026-10-22",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-23",
+        "level": 1,
+        "count": 2
+      },
+      {
+        "date": "2026-10-24",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-25",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-26",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-27",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-28",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-29",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-10-30",
+        "level": 1,
+        "count": 1
+      },
+      {
+        "date": "2026-10-31",
+        "level": 0,
+        "count": 0
+      },
+      {
+        "date": "2026-11-01",
+        "level": 3,
+        "count": 38
+      },
+      {
+        "date": "2026-11-02",
+        "level": 1,
+        "count": 8
       }
     ],
-    "contributions_total": 1165
+    "contributions_total": 1410
   },
   "forum": {
     "user": "eoin",
     "posts_count": 905,
-    "posts_read": 5402,
+    "posts_read": 5403,
     "likes_received": 155,
     "likes_given": 391,
     "topics_created": 5,
-    "days_visited": 687,
+    "days_visited": 699,
     "profile_url": "https://forum.edgeimpulse.com/u/eoin"
   },
   "blog": {
     "author": "eoinjordan",
     "posts": [
+      {
+        "title": "Qualcomm Technologies' First RISC-V Silicon: QCC744M-EVK, Supported on Edge Impulse and Zephyr",
+        "url": "https://www.edgeimpulse.com/blog/qualcomm-technologies-first-risc-v-silicon-qcc744m-evk-supported-on-edge-impulse-and-zephyr/",
+        "date": "2026-09-21T00:00:00+00:00",
+        "excerpt": null
+      },
+      {
+        "title": "From PyTorch to the Edge: Getting Started with ExecuTorch and Edge Impulse",
+        "url": "https://www.edgeimpulse.com/blog/from-pytorch-to-the-edge-getting-started-with-executorch-and-edge-impulse/",
+        "date": "2026-09-04T00:00:00+00:00",
+        "excerpt": null
+      },
       {
         "title": "Your Smartphone is a Portable Multimodal DAQ for Edge AI",
         "url": "https://www.edgeimpulse.com/blog/your-smartphone-is-a-portable-multimodal-daq-for-edge-ai/",
@@ -2140,12 +2375,6 @@
         "title": "Edge Impulse \u00d7 Zephyr: New West Extension Commands",
         "url": "https://www.edgeimpulse.com/blog/edge-impulse-x-zephyr-new-west-extension-commands/",
         "date": "2026-01-06T00:00:00+00:00",
-        "excerpt": null
-      },
-      {
-        "title": "Announcing the Edge Impulse Zephyr Module",
-        "url": "https://www.edgeimpulse.com/blog/announcing-the-edge-impulse-zephyr-module/",
-        "date": "2025-10-28T00:00:00+00:00",
         "excerpt": null
       }
     ],
@@ -2323,6 +2552,26 @@
     ],
     "honors": [
       {
+        "title": "Best Paper Presentation Award \u2014 IEEE IECON 2024 \u2014 for 'Semantics for Enhancing Communications- and Edge-Intelligence-enabled Smart Sensors' (with Insight Centre and NIST co-authors)",
+        "issuer": "IEEE Industrial Electronics Society; announced by NIST: https://www.nist.gov/news-events/news/2024/12/nist-researchers-and-collaborators-receive-best-paper-presentation-award",
+        "year": "2024"
+      },
+      {
+        "title": "W3C member participant",
+        "issuer": "World Wide Web Consortium",
+        "year": ""
+      },
+      {
+        "title": "Zephyr contributor \u2014 Edge Impulse module merged into zephyrproject-rtos/zephyr (#101581)",
+        "issuer": "The Zephyr Project (Linux Foundation)",
+        "year": "2026"
+      },
+      {
+        "title": "PyTorch / ExecuTorch contributor \u2014 fix for the QNN AAR setup in the Android LlamaDemo guide merged in meta-pytorch/executorch-examples (#266)",
+        "issuer": "PyTorch (Linux Foundation)",
+        "year": "2026"
+      },
+      {
         "title": "Zephyr Project \u2014 Technical Contributor",
         "issuer": "The Zephyr Project (Linux Foundation)",
         "year": "2026"
@@ -2338,9 +2587,9 @@
         "year": "2025"
       },
       {
-        "title": "IEEE publication \u2014 Edge-Intelligence-Enabled Smart Sensors",
+        "title": "IEEE IECON 2024 paper \u2014 Semantics for Enhancing Communications- and Edge-Intelligence-enabled Smart Sensors",
         "issuer": "IEEE",
-        "year": "2025"
+        "year": "2024"
       },
       {
         "title": "Elektor feature article \u2014 Arduino Opta PLC: Dual-System Industrial Hero",
@@ -2375,6 +2624,20 @@
       }
     ],
     "talks": [
+      {
+        "title": "ExecuTorch on Zephyr \u2014 session with Qualcomm",
+        "venue": "Qualcomm",
+        "audience": "Qualcomm engineering & partners",
+        "date": "2026-11-05",
+        "url": ""
+      },
+      {
+        "title": "ExecuTorch on Zephyr \u2014 Zephyr Community Meetup, Dublin",
+        "venue": "Zephyr Community Meetup hosted by Analog Devices (with speakers from Google, ADI, Beara, Electronics Consult)",
+        "audience": "Zephyr developers",
+        "date": "2026-10",
+        "url": "https://www.edge-ai-vision.com/2026/10/upcoming-meetup-on-the-zephyr-project-from-adi/"
+      },
       {
         "title": "Taking Linux Edge AI into Production",
         "venue": "Imagine Innovators, Amsterdam",
@@ -2491,7 +2754,7 @@
         "title": "Optimized MLOps with Edge Impulse, Blues and Zephyr",
         "venue": "Zephyr Project webinar",
         "audience": "Embedded developers",
-        "date": "2024",
+        "date": "2023-08",
         "url": "https://zephyrproject.org/event/optimized-mlops-with-edge-impulse-blues-and-zephyr-webinar/"
       },
       {
@@ -2593,32 +2856,53 @@
     ],
     "publications": [
       {
-        "title": "Edge Intelligence: a light in the fog \u2014 a review paper",
-        "venue": "ResearchGate",
-        "year": "",
-        "url": "https://www.researchgate.net/publication/369755285_Edge_Intelligence_a_light_in_the_fog_a_review_paper",
-        "note": "Review of edge-intelligence architectures across fog and edge deployments."
+        "title": "Arduino Opta PLC: Dual-System Industrial Hero",
+        "venue": "Elektor Magazine",
+        "year": "2025",
+        "url": "https://www.elektormagazine.com/",
+        "note": "Print article. The companion tutorial is on the Edge Impulse blog: https://www.edgeimpulse.com/blog/transform-industrial-control-systems-with-ai-anomaly-detection-made-easy/"
       },
       {
-        "title": "Edge-Intelligence-Enabled Smart Sensors",
-        "venue": "IEEE",
-        "year": "2025",
+        "title": "Semantics for Enhancing Communications- and Edge-Intelligence-enabled Smart Sensors: A Practical Use Case in Federated Automotive Diagnostics",
+        "venue": "IECON 2024 \u2014 50th Annual Conference of the IEEE Industrial Electronics Society (IEEE)",
+        "year": "2024",
         "url": "https://ieeexplore.ieee.org/document/10905565/",
-        "note": ""
+        "note": "Best Paper Presentation Award, IEEE IECON 2024. With Martin Serrano, Amelie Gyrard, Eugene Song, Thomas Roth and David Wollman. Free PDF from NIST: https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=957865 \u00b7 DOI 10.1109/IECON55916.2024.10905565 \u00b7 Listed by Trialog as an outcome of its NIST collaboration: https://www.trialog.com/en/semantic-interoperability/"
+      },
+      {
+        "title": "AI for Industrial Control Systems: Bringing Edge AI to PLCs",
+        "venue": "Edge Impulse blog",
+        "year": "2024",
+        "url": "https://www.edgeimpulse.com/blog/transform-industrial-control-systems-with-ai-anomaly-detection-made-easy/",
+        "note": "Anomaly detection on the Arduino Opta PLC."
       },
       {
         "title": "INFINITECH H2020 \u2014 Technical Financial Innovation (TAHO chapter)",
         "venue": "H2020 project deliverable",
-        "year": "",
-        "url": "http://graph-data-model.infinitech-h2020.eu/",
-        "note": ""
+        "year": "2023",
+        "url": "https://www.researchgate.net/publication/386753654_Technical_Financial_Innovation_Solving_the_Interoperability_Problems_of_Europe_The_INFINITECH_Legacy_Ch3_Technical_Assets",
+        "note": "Book chapter 3.21: TAHO, the Traffic Analysis Hub Ontology."
       },
       {
-        "title": "Arduino Opta PLC: Dual-System Industrial Hero",
-        "venue": "Elektor Magazine",
-        "year": "",
-        "url": "https://www.elektormagazine.com/",
-        "note": "Print article."
+        "title": "Traffik Analysis Hub Ontology (TAHO)",
+        "venue": "INFINITECH H2020 / ResearchGate",
+        "year": "2022",
+        "url": "https://www.researchgate.net/publication/386755342_Traffik_Analysis_Hub_Ontology",
+        "note": "Semantic data model for financial and anti-trafficking datasets."
+      },
+      {
+        "title": "Car Whispering: the AI Mechanic \u2014 TinyML audio event detection",
+        "venue": "FOSDEM 2022 (presentation)",
+        "year": "2022",
+        "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/",
+        "note": "With Martin Serrano and Pearse Gough. Slides on ResearchGate: https://www.researchgate.net/publication/369755361_Fosdem_2022_AI_Mechanic"
+      },
+      {
+        "title": "Edge Intelligence: a light in the fog \u2014 a review paper",
+        "venue": "ResearchGate",
+        "year": "2021",
+        "url": "https://www.researchgate.net/publication/369755285_Edge_Intelligence_a_light_in_the_fog_a_review_paper",
+        "note": "Conference paper with Martin Serrano and Achille Zappa."
       },
       {
         "title": "Every helmsman's dilemma \u2014 RNLI Galway, Node-RED",
@@ -2820,7 +3104,7 @@
       {
         "id": "eoinedge/edgeai-docs-qwen2.5-coder-0.5b-lora",
         "kind": "model",
-        "downloads": 43,
+        "downloads": 129,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2838,7 +3122,7 @@
       {
         "id": "eoinedge/EdgeAI-Docs-Qwen2.5-Coder-0.5B-Instruct",
         "kind": "model",
-        "downloads": 7,
+        "downloads": 22,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2857,7 +3141,7 @@
         "id": "eoinedge/arduino-qwen0.5-lora",
         "kind": "model",
         "downloads": 0,
-        "likes": 0,
+        "likes": 1,
         "task": "text-generation",
         "private": false,
         "url": "https://huggingface.co/eoinedge/arduino-qwen0.5-lora"
@@ -2865,7 +3149,7 @@
       {
         "id": "eoinedge/edgeai-qwen2.5coder-1.5b-lora",
         "kind": "model",
-        "downloads": 2,
+        "downloads": 12,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2892,7 +3176,7 @@
       {
         "id": "eoinedge/arduino-edgeai-qwen-combined-0.5b-lora",
         "kind": "model",
-        "downloads": 3,
+        "downloads": 11,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2901,7 +3185,7 @@
       {
         "id": "eoinedge/irish-abc-qwen2-5-lora",
         "kind": "model",
-        "downloads": 4,
+        "downloads": 31,
         "likes": 0,
         "task": "text-generation",
         "private": false,
@@ -2919,7 +3203,7 @@
       {
         "id": "eoinedge/hey-android-kws",
         "kind": "model",
-        "downloads": 11,
+        "downloads": 14,
         "likes": 0,
         "task": "audio-classification",
         "private": false,
@@ -2928,7 +3212,7 @@
       {
         "id": "eoinedge/hey-android-piper-kws",
         "kind": "model",
-        "downloads": 30,
+        "downloads": 26,
         "likes": 0,
         "task": "audio-classification",
         "private": false,
@@ -2955,7 +3239,7 @@
       {
         "id": "eoinedge/zephyrproject-docs-embeddings",
         "kind": "model",
-        "downloads": 19,
+        "downloads": 13,
         "likes": 0,
         "task": "sentence-similarity",
         "private": false,
@@ -2964,18 +3248,36 @@
       {
         "id": "eoinedge/ros2-docs-embeddings",
         "kind": "model",
-        "downloads": 13,
+        "downloads": 17,
         "likes": 0,
         "task": "sentence-similarity",
         "private": false,
         "url": "https://huggingface.co/eoinedge/ros2-docs-embeddings"
+      },
+      {
+        "id": "eoinedge/TinyDigitNet",
+        "kind": "model",
+        "downloads": 63,
+        "likes": 0,
+        "task": "image-classification",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/TinyDigitNet"
+      },
+      {
+        "id": "eoinedge/AnomalyNet",
+        "kind": "model",
+        "downloads": 73,
+        "likes": 0,
+        "task": "tabular-classification",
+        "private": false,
+        "url": "https://huggingface.co/eoinedge/AnomalyNet"
       }
     ],
     "datasets": [
       {
         "id": "eoinedge/spark-plug-classification",
         "kind": "dataset",
-        "downloads": 485,
+        "downloads": 530,
         "likes": 0,
         "task": "",
         "private": false,
@@ -2984,7 +3286,7 @@
       {
         "id": "eoinedge/spark-plug-anomaly-detection",
         "kind": "dataset",
-        "downloads": 629,
+        "downloads": 303,
         "likes": 1,
         "task": "",
         "private": false,
@@ -2993,7 +3295,7 @@
       {
         "id": "eoinedge/hey-android",
         "kind": "dataset",
-        "downloads": 28,
+        "downloads": 40,
         "likes": 0,
         "task": "",
         "private": false,
@@ -3002,7 +3304,7 @@
       {
         "id": "eoinedge/hf_hey_android",
         "kind": "dataset",
-        "downloads": 241,
+        "downloads": 34,
         "likes": 0,
         "task": "",
         "private": false,
@@ -3011,11 +3313,20 @@
       {
         "id": "eoinedge/wakeforge-hey-android-piper-tts",
         "kind": "dataset",
-        "downloads": 433,
+        "downloads": 88,
         "likes": 1,
         "task": "",
         "private": false,
         "url": "https://huggingface.co/datasets/eoinedge/wakeforge-hey-android-piper-tts"
+      },
+      {
+        "id": "eoinedge/heater-anomaly-windows",
+        "kind": "dataset",
+        "downloads": 55,
+        "likes": 0,
+        "task": "",
+        "private": false,
+        "url": "https://huggingface.co/datasets/eoinedge/heater-anomaly-windows"
       }
     ],
     "spaces": [
@@ -3074,13 +3385,13 @@
         "url": "https://huggingface.co/spaces/eoinedge/wakeforge"
       },
       {
-        "id": "eoinedge/angleforge",
+        "id": "eoinedge/AngleNorm",
         "kind": "space",
         "downloads": 0,
         "likes": 0,
         "task": "gradio",
         "private": false,
-        "url": "https://huggingface.co/spaces/eoinedge/angleforge"
+        "url": "https://huggingface.co/spaces/eoinedge/AngleNorm"
       },
       {
         "id": "eoinedge/zephyrproject-rag",
@@ -3117,9 +3428,45 @@
         "task": "gradio",
         "private": false,
         "url": "https://huggingface.co/spaces/eoinedge/ros2-embeddings-compare"
+      },
+      {
+        "id": "eoinedge/carla-automotive-sim",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/carla-automotive-sim"
+      },
+      {
+        "id": "eoinedge/sam3-obd-fusion",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/sam3-obd-fusion"
+      },
+      {
+        "id": "eoinedge/semantic-automotive-engine",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/semantic-automotive-engine"
+      },
+      {
+        "id": "eoinedge/sam3",
+        "kind": "space",
+        "downloads": 0,
+        "likes": 0,
+        "task": "gradio",
+        "private": false,
+        "url": "https://huggingface.co/spaces/eoinedge/sam3"
       }
     ],
-    "total_downloads": 1948,
-    "total_likes": 2
+    "total_downloads": 1461,
+    "total_likes": 3
   }
 }
