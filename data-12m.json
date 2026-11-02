@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:42:01.140310+00:00",
+  "generated_at": "2026-11-02T02:43:56.212605+00:00",
   "period_label": "Last 12 months",
-  "period_start": "2025-11-07T02:42:00.310094+00:00",
-  "period_end": "2026-11-02T02:42:00.310094+00:00",
+  "period_start": "2025-11-07T02:43:55.681018+00:00",
+  "period_end": "2026-11-02T02:43:55.681018+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -2892,10 +2892,10 @@
       },
       {
         "title": "INFINITECH H2020 \u2014 Technical Financial Innovation (TAHO chapter)",
-        "venue": "H2020 project deliverable",
-        "year": "2023",
-        "url": "https://www.researchgate.net/publication/386753654_Technical_Financial_Innovation_Solving_the_Interoperability_Problems_of_Europe_The_INFINITECH_Legacy_Ch3_Technical_Assets",
-        "note": "Book chapter 3.21: TAHO, the Traffic Analysis Hub Ontology."
+        "venue": "now publishers (Boston/Delft)",
+        "year": "2024",
+        "url": "https://nowpublishers.com/Article/BookDetails/9781638282327",
+        "note": "Book chapter 3.21: TAHO, the Traffic Analysis Hub Ontology. Open access. Chapter text on ResearchGate: https://www.researchgate.net/publication/386753654_Technical_Financial_Innovation_Solving_the_Interoperability_Problems_of_Europe_The_INFINITECH_Legacy_Ch3_Technical_Assets"
       },
       {
         "title": "Traffik Analysis Hub Ontology (TAHO)",
@@ -2913,10 +2913,10 @@
       },
       {
         "title": "Edge Intelligence: a light in the fog \u2014 a review paper",
-        "venue": "ResearchGate",
+        "venue": "Springer",
         "year": "2021",
         "url": "https://www.researchgate.net/publication/369755285_Edge_Intelligence_a_light_in_the_fog_a_review_paper",
-        "note": "Conference paper with Martin Serrano and Achille Zappa."
+        "note": "Review paper with Martin Serrano and Achille Zappa."
       },
       {
         "title": "Every helmsman's dilemma \u2014 RNLI Galway, Node-RED",
@@ -2957,6 +2957,21 @@
         "logo": "ieee",
         "url": "https://www.nist.gov/news-events/news/2024/12/nist-researchers-and-collaborators-receive-best-paper-presentation-award",
         "title": "Best Paper Presentation Award, IEEE IECON 2024"
+      },
+      {
+        "label": "Springer",
+        "message": "author",
+        "color": "1F6E43",
+        "logo": "springer",
+        "url": "https://www.researchgate.net/publication/369755285_Edge_Intelligence_a_light_in_the_fog_a_review_paper",
+        "title": "Edge Intelligence: a light in the fog (review paper, 2021)"
+      },
+      {
+        "label": "now publishers",
+        "message": "author",
+        "color": "4B6EAF",
+        "url": "https://nowpublishers.com/Article/BookDetails/9781638282327",
+        "title": "Technical Financial Innovation: The INFINITECH Legacy (chapter 3.21, TAHO)"
       },
       {
         "label": "FOSDEM 2022",
