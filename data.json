@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:34:33.498824+00:00",
+  "generated_at": "2026-11-02T02:35:41.795503+00:00",
   "period_label": "Career",
   "period_start": null,
-  "period_end": "2026-11-02T02:34:32.627780+00:00",
+  "period_end": "2026-11-02T02:35:40.962450+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -3101,6 +3101,13 @@
         "color": "AB1A6C",
         "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/",
         "title": "Car Whispering: the AI Mechanic"
+      },
+      {
+        "label": "droidcon NYC 2025",
+        "message": "speaker",
+        "color": "1B9AAA",
+        "url": "https://confpad.io/conferences/droidcon-new-york-2025",
+        "title": "Two talks at droidcon New York 2025"
       },
       {
         "label": "W3C Automotive WG",
