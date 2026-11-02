@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:28:44.464794+00:00",
+  "generated_at": "2026-11-02T02:33:23.770365+00:00",
   "period_label": "Last 6 months",
-  "period_start": "2026-05-06T02:28:43.748366+00:00",
-  "period_end": "2026-11-02T02:28:43.748366+00:00",
+  "period_start": "2026-05-06T02:33:22.550266+00:00",
+  "period_end": "2026-11-02T02:33:22.550266+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -1829,6 +1829,20 @@
         "audience": "Students and IBM engineers",
         "date": "2014 \u2013 2017",
         "url": ""
+      },
+      {
+        "title": "Edge Impulse & Android: Democratizing AI at the Edge",
+        "venue": "droidcon New York 2025, Brooklyn",
+        "audience": "Android developers",
+        "date": "2025-06",
+        "url": "https://confpad.io/conferences/droidcon-new-york-2025"
+      },
+      {
+        "title": "Easily create, deploy and monitor mobile AI models",
+        "venue": "droidcon New York 2025, Brooklyn",
+        "audience": "Android developers",
+        "date": "2025-06",
+        "url": "https://confpad.io/conferences/droidcon-new-york-2025"
       }
     ],
     "recommendations": [
@@ -1994,6 +2008,13 @@
         "color": "AB1A6C",
         "url": "https://archive.fosdem.org/2022/schedule/event/lt_car_whispering/",
         "title": "Car Whispering: the AI Mechanic"
+      },
+      {
+        "label": "droidcon NYC 2025",
+        "message": "speaker",
+        "color": "1B9AAA",
+        "url": "https://confpad.io/conferences/droidcon-new-york-2025",
+        "title": "Two talks at droidcon New York 2025"
       },
       {
         "label": "W3C Automotive WG",
