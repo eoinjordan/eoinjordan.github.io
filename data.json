@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:35:41.795503+00:00",
+  "generated_at": "2026-11-02T02:42:01.968288+00:00",
   "period_label": "Career",
   "period_start": null,
-  "period_end": "2026-11-02T02:35:40.962450+00:00",
+  "period_end": "2026-11-02T02:42:01.140338+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -3086,6 +3086,14 @@
         "logo": "pytorch",
         "url": "https://github.com/meta-pytorch/executorch-examples/pull/266",
         "title": "Merged in executorch-examples"
+      },
+      {
+        "label": "IEEE",
+        "message": "author",
+        "color": "00629B",
+        "logo": "ieee",
+        "url": "https://ieeexplore.ieee.org/author/527248051342564",
+        "title": "IEEE Xplore author page"
       },
       {
         "label": "IEEE IECON 2024",
