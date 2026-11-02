@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T02:27:52.537267+00:00",
+  "generated_at": "2026-11-02T02:28:44.464794+00:00",
   "period_label": "Last 6 months",
-  "period_start": "2026-05-06T02:27:51.454339+00:00",
-  "period_end": "2026-11-02T02:27:51.454339+00:00",
+  "period_start": "2026-05-06T02:28:43.748366+00:00",
+  "period_end": "2026-11-02T02:28:43.748366+00:00",
   "github": {
     "user": "eoinjordan",
     "name": "Eoin Jordan",
@@ -1609,7 +1609,7 @@
         "year": "2024"
       },
       {
-        "title": "W3C member participant",
+        "title": "W3C Automotive Working Group participant \u2014 vehicle data and OBD on the web",
         "issuer": "World Wide Web Consortium",
         "year": ""
       },
@@ -1996,11 +1996,11 @@
         "title": "Car Whispering: the AI Mechanic"
       },
       {
-        "label": "W3C",
-        "message": "member participant",
+        "label": "W3C Automotive WG",
+        "message": "participant",
         "color": "005A9C",
-        "url": "https://www.w3.org/",
-        "title": "World Wide Web Consortium"
+        "url": "https://www.w3.org/groups/wg/auto/",
+        "title": "W3C Automotive Working Group: vehicle information services and OBD data on the web"
       },
       {
         "label": "Elektor",
